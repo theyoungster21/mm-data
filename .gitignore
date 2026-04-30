@@ -11,3 +11,7 @@ units.cache
 # Ignore Gradle build output directory
 /build
 .claude/
+/bin
+.settings
+.classpath
+.project
