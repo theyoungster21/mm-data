@@ -24,6 +24,7 @@ Config:Quad
 techbase:Clan
 era:3125
 source:TR:3145:LC,TR:DA,RS:DA
+published:RS:DA
 rules level:3
 role:Skirmisher
 

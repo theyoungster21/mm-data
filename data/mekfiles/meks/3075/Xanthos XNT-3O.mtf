@@ -24,6 +24,7 @@ Config:Quad
 techbase:Inner Sphere
 era:2579
 source:TR:3075,TR:DA,RS:DA
+published:RS:DA
 rules level:1
 role:Juggernaut
 

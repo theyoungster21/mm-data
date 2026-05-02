@@ -89,6 +89,10 @@ BAJumpJet
 TR:3058U,RSFP:Wave 1
 </source>
 
+<published>
+RSFP:Wave 1
+</published>
+
 <chassis>
 biped
 </chassis>

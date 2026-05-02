@@ -123,6 +123,10 @@ CLMediumPulseLaser:OMNI
 RS:3067u,TR:3067
 </source>
 
+<published>
+RS:3067u
+</published>
+
 <tonnage>
 95.0
 </tonnage>

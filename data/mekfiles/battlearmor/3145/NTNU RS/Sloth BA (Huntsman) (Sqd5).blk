@@ -93,6 +93,10 @@ ISBAKingDavidLightGaussRifle:Body
 RS:3145-NTNU
 </source>
 
+<published>
+RS:3145-NTNU
+</published>
+
 <chassis>
 quad
 </chassis>

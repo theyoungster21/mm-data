@@ -91,6 +91,10 @@ BA-SRM5 Ammo:Body:Shots4#
 TR:3075,RS:3075u-CE
 </source>
 
+<published>
+RS:3075u-CE
+</published>
+
 <chassis>
 biped
 </chassis>

@@ -123,6 +123,10 @@ ISLongTom
 TR:3145:FS,TR:3145,RS:3145
 </source>
 
+<published>
+RS:3145
+</published>
+
 <tonnage>
 130.0
 </tonnage>

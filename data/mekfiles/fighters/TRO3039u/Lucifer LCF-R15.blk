@@ -137,6 +137,10 @@ IS Ammo LRM-20
 TR:3039,RS:3039u
 </source>
 
+<published>
+RS:3039u
+</published>
+
 <tonnage>
 65.0
 </tonnage>

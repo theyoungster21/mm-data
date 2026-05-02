@@ -106,6 +106,10 @@ ISLBXAC20
 TR:3145:CC,TR:3150,RS:3150
 </source>
 
+<published>
+RS:3150
+</published>
+
 <tonnage>
 45.0
 </tonnage>

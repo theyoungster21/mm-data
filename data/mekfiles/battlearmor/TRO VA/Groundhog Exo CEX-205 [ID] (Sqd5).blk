@@ -92,6 +92,10 @@ BAIndustrialDrill:RA
 TR:VAr,RS:VA
 </source>
 
+<published>
+RS:VA
+</published>
+
 <chassis>
 biped
 </chassis>

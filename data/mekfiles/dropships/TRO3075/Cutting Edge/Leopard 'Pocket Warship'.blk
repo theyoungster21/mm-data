@@ -149,6 +149,10 @@ ISMediumPulseLaser
 TR:3075,RS:3075u-CE
 </source>
 
+<published>
+RS:3075u-CE
+</published>
+
 <tonnage>
 1900.0
 </tonnage>

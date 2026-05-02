@@ -115,6 +115,10 @@ ISERMediumLaser
 TR:3145:RotS,TR:3145,RS:3145
 </source>
 
+<published>
+RS:3145
+</published>
+
 <tonnage>
 25.0
 </tonnage>

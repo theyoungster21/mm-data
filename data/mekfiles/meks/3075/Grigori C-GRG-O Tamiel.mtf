@@ -24,6 +24,7 @@ Config:Biped OmniMek
 techbase:Inner Sphere
 era:3072
 source:TR:3075,TR:J,RS:3075u-CE
+published:RS:3075u-CE
 rules level:4
 role:Missile Boat
 

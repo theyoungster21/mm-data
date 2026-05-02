@@ -120,6 +120,10 @@ Thunderbolt 10
 TR:3145:RotS,TR:3145,RS:3145
 </source>
 
+<published>
+RS:3145
+</published>
+
 <tonnage>
 60.0
 </tonnage>

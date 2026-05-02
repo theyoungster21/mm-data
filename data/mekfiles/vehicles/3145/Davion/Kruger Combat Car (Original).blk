@@ -109,6 +109,10 @@ Medium Laser
 TR:3145:FS,TR:3150,RS:3150
 </source>
 
+<published>
+RS:3150
+</published>
+
 <tonnage>
 10.0
 </tonnage>

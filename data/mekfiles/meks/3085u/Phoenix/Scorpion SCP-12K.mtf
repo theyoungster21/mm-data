@@ -24,6 +24,7 @@ Config:Quad
 techbase:Inner Sphere
 era:3071
 source:TR:3085,BattleCorps,RS:3085u-PP
+published:RS:3085u-PP
 rules level:2
 role:Missile Boat
 

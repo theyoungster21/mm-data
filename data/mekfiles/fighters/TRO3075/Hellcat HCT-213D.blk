@@ -136,6 +136,10 @@ IS Ammo SRM-6
 TR:3075,RS:3075u-AW
 </source>
 
+<published>
+RS:3075u-AW
+</published>
+
 <tonnage>
 60.0
 </tonnage>

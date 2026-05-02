@@ -24,6 +24,7 @@ Config:Biped OmniMek
 techbase:Inner Sphere
 era:3133
 source:TR:3145:DC,TR:DA,RS:DA
+published:RS:DA
 rules level:2
 role:Skirmisher
 

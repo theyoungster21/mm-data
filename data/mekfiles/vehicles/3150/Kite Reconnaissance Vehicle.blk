@@ -120,6 +120,10 @@ CLLightTAG
 TR:3145:Merc,TR:3150,RS:3150
 </source>
 
+<published>
+RS:3150
+</published>
+
 <tonnage>
 30.0
 </tonnage>

@@ -24,6 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:2660
 source:TR:3075,RS:3075u-AW
+published:RS:3075u-AW
 rules level:2
 role:Missile Boat
 

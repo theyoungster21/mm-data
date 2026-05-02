@@ -24,6 +24,7 @@ Config:LAM
 techbase:Inner Sphere
 era:2697
 source:TR:3085,RS:3085u-CE
+published:RS:3085u-CE
 rules level:3
 role:Scout
 

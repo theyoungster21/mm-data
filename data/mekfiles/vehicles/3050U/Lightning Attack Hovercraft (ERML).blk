@@ -117,6 +117,10 @@ IS Ammo RL-15
 TR:3050,TR:3050U,RS:3050Uu-C
 </source>
 
+<published>
+RS:3050Uu-C
+</published>
+
 <tonnage>
 35.0
 </tonnage>

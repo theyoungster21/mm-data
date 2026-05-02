@@ -24,6 +24,7 @@ Config:Biped OmniMek
 techbase:Inner Sphere
 era:3071
 source:TR:3058U,TR:CI,RS:3058Uu-I
+published:RS:3058Uu-I
 rules level:4
 role:Striker
 

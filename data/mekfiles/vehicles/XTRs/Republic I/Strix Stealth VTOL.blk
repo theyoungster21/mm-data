@@ -122,6 +122,10 @@ CLERSmallLaser
 XTR:RotS 1,TR:3150,RS:3150
 </source>
 
+<published>
+RS:3150
+</published>
+
 <tonnage>
 30.0
 </tonnage>

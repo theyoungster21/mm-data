@@ -128,6 +128,10 @@ IS MRM 40 Ammo
 TR:3067,RS:3067u
 </source>
 
+<published>
+RS:3067u
+</published>
+
 <tonnage>
 55.0
 </tonnage>

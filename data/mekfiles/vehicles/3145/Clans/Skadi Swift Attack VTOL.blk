@@ -115,6 +115,10 @@ CLUltraAC10
 TR:3145:C,TR:3145,RS:3145
 </source>
 
+<published>
+RS:3145
+</published>
+
 <tonnage>
 30.0
 </tonnage>

@@ -141,6 +141,10 @@ IS Ammo LRM-15 Artemis-capable
 His:OK,RS:OK
 </source>
 
+<published>
+RS:OK
+</published>
+
 <tonnage>
 90.0
 </tonnage>

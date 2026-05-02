@@ -154,6 +154,10 @@ ISLaserAntiMissileSystem
 TR:Proto,RS:Proto
 </source>
 
+<published>
+RS:Proto
+</published>
+
 <tonnage>
 2500.0
 </tonnage>

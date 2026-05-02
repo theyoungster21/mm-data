@@ -124,6 +124,10 @@ CLActiveProbe:OMNI
 TR:3055U,RS:3055Uu
 </source>
 
+<published>
+RS:3055Uu
+</published>
+
 <tonnage>
 30.0
 </tonnage>

@@ -24,6 +24,7 @@ Config:Biped OmniMek
 techbase:Clan
 era:3073
 source:TR:3060,RS:3060u
+published:RS:3060u
 rules level:3
 role:Skirmisher
 

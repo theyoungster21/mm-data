@@ -130,6 +130,10 @@ WatchdogECMSuite:OMNI
 RS:3145-NTNU,RS:3145
 </source>
 
+<published>
+RS:3145-NTNU,RS:3145
+</published>
+
 <tonnage>
 45.0
 </tonnage>

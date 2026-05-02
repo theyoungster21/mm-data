@@ -140,6 +140,10 @@ CLMediumChemicalLaser
 RS:3150,TR:3150
 </source>
 
+<published>
+RS:3150
+</published>
+
 <tonnage>
 7.0
 </tonnage>

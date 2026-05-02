@@ -108,6 +108,10 @@ ISSmallPulseLaser
 TR:3050,TR:3050U,RS:3050Uu-C
 </source>
 
+<published>
+RS:3050Uu-C
+</published>
+
 <tonnage>
 10.0
 </tonnage>

@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3131
 source:RG27,RSFP:NWH
+published:RSFP:NWH
 rules level:3
 role:Juggernaut
 

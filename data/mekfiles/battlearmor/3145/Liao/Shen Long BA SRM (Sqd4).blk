@@ -88,6 +88,10 @@ BA-SRM4 Ammo:TU:Shots4#
 TR:3145:CC,TR:3145,RS:3145
 </source>
 
+<published>
+RS:3145
+</published>
+
 <chassis>
 quad
 </chassis>

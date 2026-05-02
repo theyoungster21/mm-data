@@ -125,6 +125,10 @@ IS Ammo SRM-4
 TR:3039,RSFP:Wave 2
 </source>
 
+<published>
+RSFP:Wave 2
+</published>
+
 <tonnage>
 65.0
 </tonnage>

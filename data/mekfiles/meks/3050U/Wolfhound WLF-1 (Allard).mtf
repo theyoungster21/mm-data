@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3062
 source:TR:3050,TR:3050U,RS:3050Uu-I
+published:RS:3050Uu-I
 rules level:3
 role:Striker
 

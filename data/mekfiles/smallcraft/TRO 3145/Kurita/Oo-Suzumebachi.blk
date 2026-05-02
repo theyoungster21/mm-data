@@ -144,6 +144,10 @@ ISERMediumLaser
 TR:3145:DC,TR:3150,RS:3145
 </source>
 
+<published>
+RS:3145
+</published>
+
 <tonnage>
 170.0
 </tonnage>

@@ -24,6 +24,7 @@ Config:Biped OmniMek
 techbase:Mixed (Clan Chassis)
 era:3140
 source:RS:3145-NTNU,TR:J,RS:3145
+published:RS:3145-NTNU,RS:3145
 rules level:3
 role:Brawler
 

@@ -24,6 +24,7 @@ Config:Biped OmniMek
 techbase:Mixed (Clan Chassis)
 era:3132
 source:RS:3145-NTNU,TR:CI,RS:3145
+published:RS:3145-NTNU,RS:3145
 rules level:3
 role:Juggernaut
 

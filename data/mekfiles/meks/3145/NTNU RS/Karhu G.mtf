@@ -24,6 +24,7 @@ Config:Biped OmniMek
 techbase:Clan
 era:3099
 source:RS:3145-NTNU,TR:DA,RS:3145
+published:RS:3145-NTNU,RS:3145
 rules level:2
 role:Skirmisher
 

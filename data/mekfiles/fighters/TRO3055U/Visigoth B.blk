@@ -126,6 +126,10 @@ CLMediumPulseLaser:OMNI
 TR:3055U,RS:3055Uu
 </source>
 
+<published>
+RS:3055Uu
+</published>
+
 <tonnage>
 60.0
 </tonnage>

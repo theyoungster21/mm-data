@@ -126,6 +126,10 @@ IS Gauss Ammo
 TR:3075,RS:OK
 </source>
 
+<published>
+RS:OK
+</published>
+
 <tonnage>
 50.0
 </tonnage>

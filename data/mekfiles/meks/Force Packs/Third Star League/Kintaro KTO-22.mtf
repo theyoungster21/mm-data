@@ -23,6 +23,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3100
 source:RSFP:SLDF3
+published:RSFP:SLDF3
 rules level:2
 role:Skirmisher
 

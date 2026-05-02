@@ -122,6 +122,10 @@ CLUltraAC10
 RS:3067u,TR:3060,RS:3060u
 </source>
 
+<published>
+RS:3067u,RS:3060u
+</published>
+
 <tonnage>
 65.0
 </tonnage>

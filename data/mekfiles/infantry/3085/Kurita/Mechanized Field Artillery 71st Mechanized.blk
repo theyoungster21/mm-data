@@ -65,6 +65,10 @@ ISThumperAmmo
 TR:3085,RS:3085u-CE
 </source>
 
+<published>
+RS:3085u-CE
+</published>
+
 <squad_size>
 6
 </squad_size>

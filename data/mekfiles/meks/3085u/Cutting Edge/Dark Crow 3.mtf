@@ -24,6 +24,7 @@ Config:Biped
 techbase:Clan
 era:3084
 source:TR:3085,TR:DA,RS:DA
+published:RS:DA
 rules level:4
 role:Striker
 

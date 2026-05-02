@@ -113,6 +113,10 @@ Heavy PPC
 TR:3145:FWL,TR:3145,RS:3145
 </source>
 
+<published>
+RS:3145
+</published>
+
 <tonnage>
 85.0
 </tonnage>

@@ -24,6 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:3070
 source:TR:3085,BattleCorps,RS:3085u-PP
+published:RS:3085u-PP
 rules level:2
 role:Striker
 

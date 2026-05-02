@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3112
 source:RS:3145-NTNU,TR:3145,RS:3145
+published:RS:3145-NTNU,RS:3145
 rules level:4
 role:Juggernaut
 

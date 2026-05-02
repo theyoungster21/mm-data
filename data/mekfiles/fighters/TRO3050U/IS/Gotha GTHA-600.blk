@@ -130,6 +130,10 @@ IS Ammo SRM-6
 TR:3050,TR:3050U,RS:3050Uu-C
 </source>
 
+<published>
+RS:3050Uu-C
+</published>
+
 <tonnage>
 60.0
 </tonnage>

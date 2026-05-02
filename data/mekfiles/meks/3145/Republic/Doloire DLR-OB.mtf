@@ -24,6 +24,7 @@ Config:Biped OmniMek
 techbase:Mixed (IS Chassis)
 era:3121
 source:TR:3145:RotS,TR:DA,RS:DA
+published:RS:DA
 rules level:3
 role:Brawler
 

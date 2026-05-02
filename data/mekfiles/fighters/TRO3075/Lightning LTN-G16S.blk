@@ -129,6 +129,10 @@ ISHeavyGauss Ammo
 TR:3075,RS:3075u-AW
 </source>
 
+<published>
+RS:3075u-AW
+</published>
+
 <tonnage>
 50.0
 </tonnage>

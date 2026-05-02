@@ -127,6 +127,10 @@ IS Ammo AC/5
 TR:3039,RS:3039u
 </source>
 
+<published>
+RS:3039u
+</published>
+
 <tonnage>
 100.0
 </tonnage>

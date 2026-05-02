@@ -25,6 +25,7 @@ Config:Biped OmniMek
 techbase:Clan
 era:3121
 source:TR:3145:C,TR:DA,RS:DA
+published:RS:DA
 rules level:2
 role:Sniper
 

@@ -97,6 +97,10 @@ BA-SRM3 Ammo:Shots1#
 TR:3075,RS:3075u-CE
 </source>
 
+<published>
+RS:3075u-CE
+</published>
+
 <chassis>
 biped
 </chassis>

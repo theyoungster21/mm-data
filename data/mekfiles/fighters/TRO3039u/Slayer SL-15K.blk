@@ -127,6 +127,10 @@ IS LB 10-X Cluster Ammo
 TR:3039,RS:3039u
 </source>
 
+<published>
+RS:3039u
+</published>
+
 <tonnage>
 80.0
 </tonnage>

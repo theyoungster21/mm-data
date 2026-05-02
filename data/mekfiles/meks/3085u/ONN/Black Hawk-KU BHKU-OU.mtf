@@ -24,6 +24,7 @@ Config:Biped OmniMek
 techbase:Inner Sphere
 era:3077
 source:TR:3085,TR:CI,RS:3085u-ONN
+published:RS:3085u-ONN
 rules level:2
 role:Skirmisher
 

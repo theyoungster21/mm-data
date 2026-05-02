@@ -89,6 +89,10 @@ BA-Mine Launcher Ammo:Shots4#
 TR:3058U,RS:3058Uu-C
 </source>
 
+<published>
+RS:3058Uu-C
+</published>
+
 <chassis>
 quad
 </chassis>

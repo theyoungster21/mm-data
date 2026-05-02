@@ -103,6 +103,10 @@ The Black Wolf was originally conceived by WizKids' MechWarrior Dark Age Collect
 TR:3145:C,TR:3145,RS:3145
 </source>
 
+<published>
+RS:3145
+</published>
+
 <chassis>
 biped
 </chassis>

@@ -185,6 +185,10 @@ ISArtemisIV
 TR:3145:FWL,TR:3150,RS:3150
 </source>
 
+<published>
+RS:3150
+</published>
+
 <tonnage>
 2600.0
 </tonnage>

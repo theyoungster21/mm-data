@@ -95,6 +95,10 @@ BAJumpJet
 TR:3085,RS:3085u-ONN
 </source>
 
+<published>
+RS:3085u-ONN
+</published>
+
 <chassis>
 biped
 </chassis>

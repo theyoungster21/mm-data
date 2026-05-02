@@ -137,6 +137,10 @@ IS Ammo LRM-20
 TR:3075,RS:3075u-AW
 </source>
 
+<published>
+RS:3075u-AW
+</published>
+
 <tonnage>
 100.0
 </tonnage>

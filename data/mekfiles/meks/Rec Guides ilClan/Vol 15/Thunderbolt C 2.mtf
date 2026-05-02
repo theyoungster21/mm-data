@@ -24,6 +24,7 @@ Config:Biped
 techbase:Clan
 era:3054
 source:RG15,RGv1,RSFP:ELH
+published:RSFP:ELH
 rules level:2
 role:Juggernaut
 

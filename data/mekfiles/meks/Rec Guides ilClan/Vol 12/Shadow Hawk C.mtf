@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:2826
 source:RG12,RGv1,RSFP:GDL
+published:RSFP:GDL
 rules level:2
 role:Skirmisher
 

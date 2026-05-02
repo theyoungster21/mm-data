@@ -102,6 +102,10 @@ BA-Magnetic Clamp:Body
 TR:3145:Merc,TR:3145,RS:3145
 </source>
 
+<published>
+RS:3145
+</published>
+
 <chassis>
 biped
 </chassis>

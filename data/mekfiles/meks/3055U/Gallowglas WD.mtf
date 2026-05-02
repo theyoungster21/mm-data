@@ -24,6 +24,7 @@ Config:Biped
 techbase:Clan
 era:3055
 source:TR:3055U,TR:CI,RS:CI
+published:RS:CI
 rules level:2
 role:Skirmisher
 

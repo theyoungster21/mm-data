@@ -24,6 +24,7 @@ Config:Biped OmniMek
 techbase:Clan
 era:3003
 source:TR:3058U,TR:CI,RSFP:Wave 1
+published:RSFP:Wave 1
 rules level:2
 role:Sniper
 

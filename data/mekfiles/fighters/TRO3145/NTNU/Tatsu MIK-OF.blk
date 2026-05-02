@@ -133,6 +133,10 @@ IS Ammo MML-7 SRM:OMNI
 RS:3145-NTNU,RS:3145
 </source>
 
+<published>
+RS:3145-NTNU,RS:3145
+</published>
+
 <tonnage>
 70.0
 </tonnage>

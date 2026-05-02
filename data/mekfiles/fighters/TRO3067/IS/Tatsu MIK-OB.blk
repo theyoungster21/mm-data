@@ -142,6 +142,10 @@ IS Ammo LRM-15 Artemis-capable:OMNI
 TR:3067,RS:3067u
 </source>
 
+<published>
+RS:3067u
+</published>
+
 <tonnage>
 70.0
 </tonnage>

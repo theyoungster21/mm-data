@@ -24,6 +24,7 @@ Config:Biped
 techbase:Clan
 era:3092
 source:TR:3145:Merc,TR:DA,RS:DA
+published:RS:DA
 rules level:2
 role:Skirmisher
 

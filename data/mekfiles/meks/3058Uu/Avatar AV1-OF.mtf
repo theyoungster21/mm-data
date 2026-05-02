@@ -24,6 +24,7 @@ Config:Biped OmniMek
 techbase:Inner Sphere
 era:3064
 source:TR:3058U,TR:CI,RS:CI
+published:RS:CI
 rules level:2
 role:Brawler
 

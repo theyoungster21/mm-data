@@ -24,6 +24,7 @@ Config:Biped
 techbase:Inner Sphere
 era:2810
 source:TR:3039,TR:3025r,RSFP:Wave 2
+published:RSFP:Wave 2
 rules level:1
 role:Scout
 

@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3071
 source:MSII,RS:3050Uu-C
+published:RS:3050Uu-C
 rules level:4
 role:Brawler
 

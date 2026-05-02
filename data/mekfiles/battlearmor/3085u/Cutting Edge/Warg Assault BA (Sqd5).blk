@@ -93,6 +93,10 @@ BABasicManipulator:RA
 TR:3085,TR:3085S,RS:3085u-CE
 </source>
 
+<published>
+RS:3085u-CE
+</published>
+
 <chassis>
 biped
 </chassis>

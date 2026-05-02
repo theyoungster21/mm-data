@@ -195,6 +195,10 @@ CLLaserAntiMissileSystem
 TR:Proto,RS:Proto
 </source>
 
+<published>
+RS:Proto
+</published>
+
 <tonnage>
 7000.0
 </tonnage>

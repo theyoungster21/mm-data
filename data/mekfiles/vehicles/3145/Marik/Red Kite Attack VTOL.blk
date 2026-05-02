@@ -128,6 +128,10 @@ CLMediumChemicalLaser
 TR:3145:FWL,TR:3150,RS:3150
 </source>
 
+<published>
+RS:3150
+</published>
+
 <tonnage>
 25.0
 </tonnage>

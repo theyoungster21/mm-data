@@ -120,6 +120,10 @@ IS Light Gauss Ammo
 RS:UF
 </source>
 
+<published>
+RS:UF
+</published>
+
 <tonnage>
 50.0
 </tonnage>

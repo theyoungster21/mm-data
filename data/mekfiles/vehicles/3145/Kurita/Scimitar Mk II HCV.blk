@@ -113,6 +113,10 @@ SRM 4
 TR:3145:DC,TR:3145,RS:3145
 </source>
 
+<published>
+RS:3145
+</published>
+
 <tonnage>
 35.0
 </tonnage>

@@ -95,6 +95,10 @@ IS BA Advanced:Body
 TR:3145:LC,TR:3150,RS:3150
 </source>
 
+<published>
+RS:3150
+</published>
+
 <chassis>
 quad
 </chassis>

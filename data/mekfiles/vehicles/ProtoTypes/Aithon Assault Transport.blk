@@ -121,6 +121,10 @@ CLMediumPulseLaser
 TR:Proto,RS:Proto
 </source>
 
+<published>
+RS:Proto
+</published>
+
 <tonnage>
 100.0
 </tonnage>

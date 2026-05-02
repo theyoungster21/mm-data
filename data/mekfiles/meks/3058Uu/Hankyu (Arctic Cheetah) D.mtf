@@ -25,6 +25,7 @@ Config:Biped OmniMek
 techbase:Clan
 era:3037
 source:TR:CI,RS:CI
+published:RS:CI
 rules level:2
 role:Missile Boat
 

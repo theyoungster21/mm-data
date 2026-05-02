@@ -91,6 +91,10 @@ BABasicManipulator:RA
 TR:Proto,RS:Proto
 </source>
 
+<published>
+RS:Proto
+</published>
+
 <chassis>
 biped
 </chassis>

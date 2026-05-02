@@ -25,6 +25,7 @@ Config:Biped
 techbase:Clan
 era:3113
 source:RS:3150,TR:3150
+published:RS:3150
 rules level:3
 role:Brawler
 

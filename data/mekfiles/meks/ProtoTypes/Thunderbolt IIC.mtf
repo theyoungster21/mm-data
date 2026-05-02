@@ -24,6 +24,7 @@ Config:Biped
 techbase:Clan
 era:3085
 source:TR:Proto,RS:Proto
+published:RS:Proto
 rules level:4
 role:Brawler
 
