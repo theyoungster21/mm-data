@@ -23,7 +23,7 @@ mul id:2031
 Config:Biped
 techbase:Inner Sphere
 era:3044
-source:RG06
+source:RG06,BD:BH
 rules level:4
 role:Sniper
 

@@ -23,7 +23,7 @@ mul id:6824
 Config:Quad
 techbase:Mixed (IS Chassis)
 era:3119
-source:RS:3145-NTNU
+source:RS:3145-NTNU,TR:3145,RS:3145
 rules level:3
 role:Brawler
 

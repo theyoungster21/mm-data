@@ -23,7 +23,7 @@ mul id:8387
 Config:Biped
 techbase:Clan
 era:3065
-source:RSFP:WD
+source:RSFP:WD,RGv1
 rules level:2
 role:Brawler
 

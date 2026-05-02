@@ -23,7 +23,7 @@ mul id:8249
 Config:Biped
 techbase:Inner Sphere
 era:3142
-source:RG18
+source:RG18,RSFP:HRR
 rules level:3
 role:Brawler
 

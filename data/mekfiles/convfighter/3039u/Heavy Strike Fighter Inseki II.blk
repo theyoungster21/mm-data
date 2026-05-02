@@ -129,7 +129,7 @@ IS Machine Gun Ammo - Half
 
 
 <source>
-TR:3039
+TR:3039,RS:3039u
 </source>
 
 <tonnage>

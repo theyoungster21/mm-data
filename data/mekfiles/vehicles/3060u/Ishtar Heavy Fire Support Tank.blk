@@ -119,7 +119,7 @@ CLUltraAC10
 </Turret Equipment>
 
 <source>
-RS:3067u
+RS:3067u,TR:3060,RS:3060u
 </source>
 
 <tonnage>

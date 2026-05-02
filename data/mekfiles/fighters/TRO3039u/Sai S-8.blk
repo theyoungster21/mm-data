@@ -120,7 +120,7 @@ ISERMediumLaser
 </Fuselage Equipment>
 
 <source>
-TR:3039
+TR:3039,RS:3039u
 </source>
 
 <tonnage>

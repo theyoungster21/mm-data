@@ -91,7 +91,7 @@ IS BA Advanced:RA
 <Trooper 4 Equipment>
 </Trooper 4 Equipment>
 <source>
-RS:3145-NTNU
+RS:3145-NTNU,TR:3145,RS:3145
 </source>
 
 <chassis>

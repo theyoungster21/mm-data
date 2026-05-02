@@ -230,7 +230,7 @@ Ammo Barracuda:10
 </structural_integrity>
 
 <source>
-TR:3057r
+TR:3057r,JTP:Luthien
 </source>
 
 <tonnage>

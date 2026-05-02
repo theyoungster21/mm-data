@@ -23,7 +23,7 @@ mul id:2506
 Config:Biped
 techbase:Inner Sphere
 era:3067
-source:TR:PP
+source:TR:PP,TR:CI,RS:CI
 rules level:2
 role:Striker
 

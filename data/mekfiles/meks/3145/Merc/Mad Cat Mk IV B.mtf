@@ -24,7 +24,7 @@ mul id:6572
 Config:Biped OmniMek
 techbase:Clan
 era:3136
-source:TR:3145:Merc
+source:TR:3145:Merc,TR:DA,RS:DA
 rules level:3
 role:Skirmisher
 

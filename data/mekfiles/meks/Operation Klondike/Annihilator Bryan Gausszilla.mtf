@@ -23,7 +23,7 @@ mul id:44
 Config:Biped
 techbase:Clan
 era:2844
-source:His:OK
+source:His:OK,RS:OK
 rules level:2
 role:Juggernaut
 

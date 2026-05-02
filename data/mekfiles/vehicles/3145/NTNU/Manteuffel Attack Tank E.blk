@@ -118,7 +118,7 @@ Mek Taser:OMNI
 </Turret Equipment>
 
 <source>
-RS:3145-NTNU
+RS:3145-NTNU,RS:3145
 </source>
 
 <tonnage>

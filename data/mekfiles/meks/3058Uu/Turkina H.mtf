@@ -23,7 +23,7 @@ mul id:3331
 Config:Biped OmniMek
 techbase:Clan
 era:3062
-source:TR:CI
+source:TR:CI,RS:CI
 rules level:2
 role:Juggernaut
 

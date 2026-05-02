@@ -96,7 +96,7 @@ IS BA Advanced:Body
 <Trooper 6 Equipment>
 </Trooper 6 Equipment>
 <source>
-TR:3075
+TR:3075,RS:3075u-CE
 </source>
 
 <chassis>

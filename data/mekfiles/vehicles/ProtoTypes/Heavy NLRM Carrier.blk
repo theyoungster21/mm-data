@@ -112,7 +112,7 @@ Enhanced LRM 15
 </Turret Equipment>
 
 <source>
-TR:Proto
+TR:Proto,RS:Proto
 </source>
 
 <tonnage>

@@ -89,7 +89,7 @@ BABasicManipulator:RA
 <Trooper 5 Equipment>
 </Trooper 5 Equipment>
 <source>
-TR:VAr
+TR:VAr,RS:VA
 </source>
 
 <chassis>

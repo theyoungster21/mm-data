@@ -23,7 +23,7 @@ mul id:7151
 Config:Biped
 techbase:Inner Sphere
 era:3081
-source:TR:VAr
+source:TR:VAr,RS:VA
 rules level:3
 role:Scout
 

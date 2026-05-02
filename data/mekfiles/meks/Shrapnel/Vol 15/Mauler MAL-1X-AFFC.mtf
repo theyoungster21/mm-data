@@ -23,7 +23,7 @@ mul id:9545
 Config:Biped
 techbase:Inner Sphere
 era:3040
-source:Shrap15
+source:Shrap15,ShrapRS
 rules level:2
 role:Juggernaut
 

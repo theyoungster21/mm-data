@@ -23,7 +23,7 @@ mul id:6975
 Config:Biped
 techbase:Mixed (Clan Chassis)
 era:3100
-source:TR:DA
+source:TR:DA,RS:DA
 rules level:3
 role:Skirmisher
 

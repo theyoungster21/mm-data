@@ -23,7 +23,7 @@ mul id:170
 Config:Biped OmniMek
 techbase:Mixed (IS Chassis)
 era:3059
-source:TR:3058U
+source:TR:3058U,TR:CI,RS:3058Uu-I
 rules level:3
 role:Brawler
 

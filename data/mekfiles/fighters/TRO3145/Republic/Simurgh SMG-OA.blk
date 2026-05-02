@@ -140,7 +140,7 @@ IS MRM 40 Ammo:OMNI
 </Fuselage Equipment>
 
 <source>
-TR:3145:RotS
+TR:3145:RotS,TR:3145,RS:3145
 </source>
 
 <tonnage>

@@ -105,7 +105,7 @@ PPC
 </Turret Equipment>
 
 <source>
-His:OK
+His:OK,RS:OK
 </source>
 
 <tonnage>

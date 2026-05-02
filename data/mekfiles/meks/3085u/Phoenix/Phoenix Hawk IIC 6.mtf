@@ -23,7 +23,7 @@ mul id:2516
 Config:Biped
 techbase:Clan
 era:3070
-source:TR:3085
+source:TR:3085,BattleCorps,RS:3085u-PP
 rules level:2
 role:Skirmisher
 

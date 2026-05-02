@@ -23,7 +23,7 @@ mul id:7565
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3052
-source:RG07
+source:RG07,RGv1,RSFP:NWH
 rules level:3
 role:Brawler
 

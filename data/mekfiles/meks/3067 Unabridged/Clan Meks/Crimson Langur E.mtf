@@ -23,7 +23,7 @@ mul id:5677
 Config:Biped OmniMek
 techbase:Clan
 era:3068
-source:RS:3067u
+source:RS:3067u,TR:3067
 rules level:2
 role:Striker
 

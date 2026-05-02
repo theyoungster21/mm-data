@@ -88,7 +88,7 @@ BABasicManipulator:RA
 <Trooper 4 Equipment>
 </Trooper 4 Equipment>
 <source>
-TR:Proto
+TR:Proto,RS:Proto
 </source>
 
 <chassis>

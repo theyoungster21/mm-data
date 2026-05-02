@@ -23,7 +23,7 @@ mul id:1916
 Config:Biped
 techbase:Clan
 era:2853
-source:RG16
+source:RG16,RGv1
 rules level:2
 role:Striker
 

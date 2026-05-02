@@ -23,7 +23,7 @@ mul id:5334
 Config:Quad
 techbase:Inner Sphere
 era:3066
-source:RS:VA
+source:RS:VA,TR:VAr
 rules level:2
 role:None
 

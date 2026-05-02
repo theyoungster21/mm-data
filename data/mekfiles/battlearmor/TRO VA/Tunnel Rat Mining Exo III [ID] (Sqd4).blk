@@ -83,7 +83,7 @@ BAIndustrialDrill:RA
 BAJumpJet
 </slotless_equipment>
 <source>
-TR:VAr
+TR:VAr,RS:VA
 </source>
 
 <chassis>

@@ -151,7 +151,7 @@ ISLaserAntiMissileSystem
 </structural_integrity>
 
 <source>
-TR:Proto
+TR:Proto,RS:Proto
 </source>
 
 <tonnage>

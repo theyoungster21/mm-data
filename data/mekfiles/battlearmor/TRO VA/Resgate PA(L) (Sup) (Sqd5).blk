@@ -94,7 +94,7 @@ Clan BA Fire Resistant:LA
 BAJumpJet
 </slotless_equipment>
 <source>
-TR:VAr
+TR:VAr,RS:VA
 </source>
 
 <chassis>

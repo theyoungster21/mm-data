@@ -23,7 +23,7 @@ mul id:7296
 Config:Biped
 techbase:Inner Sphere
 era:3104
-source:XTR:RotS 1
+source:XTR:RotS 1,TR:DA,RS:DA
 rules level:2
 role:Sniper
 

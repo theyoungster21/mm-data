@@ -112,7 +112,7 @@ ISTAG
 </Turret Equipment>
 
 <source>
-TR:3075
+TR:3075,RS:3075u-AW
 </source>
 
 <tonnage>

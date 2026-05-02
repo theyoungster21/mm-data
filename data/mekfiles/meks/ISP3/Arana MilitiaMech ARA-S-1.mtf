@@ -23,7 +23,7 @@ mul id:5798
 Config:Quad
 techbase:Clan
 era:3087
-source:IE:ISP3
+source:IE:ISP3,TR:DA,RS:DA
 rules level:3
 role:Striker
 

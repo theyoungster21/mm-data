@@ -23,7 +23,7 @@ mul id:4490
 Config:Biped
 techbase:Inner Sphere
 era:3070
-source:TR:J
+source:TR:J,RS:3067u
 rules level:2
 role:Brawler
 

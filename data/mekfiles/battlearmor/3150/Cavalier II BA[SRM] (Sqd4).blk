@@ -92,7 +92,7 @@ BA-SRM1 Ammo:RA:Shots4#
 BAJumpJet
 </slotless_equipment>
 <source>
-TR:3150
+TR:3150,RS:3150
 </source>
 
 <chassis>

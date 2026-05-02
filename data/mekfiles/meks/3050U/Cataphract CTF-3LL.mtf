@@ -23,7 +23,7 @@ mul id:471
 Config:Biped
 techbase:Inner Sphere
 era:3068
-source:TR:3050
+source:TR:3050,TR:3050U,RS:3050Uu-I
 rules level:2
 role:Skirmisher
 

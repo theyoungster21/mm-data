@@ -98,7 +98,7 @@ Clan BA Fire Resistant:Body
 BA-SRM5 Ammo:Shots1#
 </slotless_equipment>
 <source>
-TR:3075
+TR:3075,RS:3075u-CE
 </source>
 
 <chassis>

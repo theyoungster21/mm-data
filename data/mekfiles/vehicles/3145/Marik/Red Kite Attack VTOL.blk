@@ -125,7 +125,7 @@ CLMediumChemicalLaser
 </Turret Equipment>
 
 <source>
-TR:3145:FWL
+TR:3145:FWL,TR:3150,RS:3150
 </source>
 
 <tonnage>

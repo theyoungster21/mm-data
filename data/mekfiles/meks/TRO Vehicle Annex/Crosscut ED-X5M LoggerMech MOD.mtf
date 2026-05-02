@@ -23,7 +23,7 @@ mul id:7170
 Config:Biped
 techbase:Inner Sphere
 era:3074
-source:RS:VA
+source:RS:VA,TR:DA
 rules level:2
 role:Ambusher
 

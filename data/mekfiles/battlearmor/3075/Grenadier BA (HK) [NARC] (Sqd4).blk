@@ -95,7 +95,7 @@ CLBACompactNarc:LA
 BA-Compact Narc Ammo:LA:Shots3#
 </Trooper 4 Equipment>
 <source>
-TR:3075
+TR:3075,RS:3075u-CE
 </source>
 
 <chassis>

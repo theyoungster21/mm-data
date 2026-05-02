@@ -23,7 +23,7 @@ mul id:4564
 Config:Biped
 techbase:Clan
 era:3083
-source:TR:Proto
+source:TR:Proto,RS:Proto
 rules level:3
 role:Sniper
 

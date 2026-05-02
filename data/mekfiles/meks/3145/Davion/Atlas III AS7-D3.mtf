@@ -23,7 +23,7 @@ mul id:6358
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3137
-source:TR:3145:FS
+source:TR:3145:FS,TR:DA,RS:DA
 rules level:4
 role:Juggernaut
 

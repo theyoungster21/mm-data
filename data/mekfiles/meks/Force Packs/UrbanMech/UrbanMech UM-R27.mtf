@@ -23,7 +23,7 @@ mul id:9498
 Config:Biped
 techbase:Inner Sphere
 era:3130
-source:RSFP:Urbies
+source:RSFP:Urbies,TR:3050U
 rules level:3
 role:Ambusher
 

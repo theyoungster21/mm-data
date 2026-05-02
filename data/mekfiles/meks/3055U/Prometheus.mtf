@@ -23,7 +23,7 @@ mul id:4871
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3053
-source:Unbound
+source:Unbound,RS:3055Uu
 rules level:4
 role:Sniper
 

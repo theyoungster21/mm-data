@@ -80,7 +80,7 @@ ISBAMediumPulseLaser:TU
 <Trooper 4 Equipment>
 </Trooper 4 Equipment>
 <source>
-TR:3058U
+TR:3058U,RS:3058Uu-C
 </source>
 
 <chassis>

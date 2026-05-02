@@ -24,7 +24,7 @@ mul id:7633
 Config:Biped OmniMek
 techbase:Mixed (Clan Chassis)
 era:3109
-source:SO:UF
+source:SO:UF,TR:DA
 rules level:3
 role:Missile Boat
 

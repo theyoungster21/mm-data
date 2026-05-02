@@ -23,7 +23,7 @@ mul id:1918
 Config:Biped
 techbase:Clan
 era:3060
-source:TR:3085
+source:TR:3085,TR:PP,RS:3085u-PP
 rules level:2
 role:Striker
 

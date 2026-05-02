@@ -142,7 +142,7 @@ IS Ammo SRM-6
 
 
 <source>
-TR:3050
+TR:3050,TR:3050U,RS:3050Uu-C
 </source>
 
 <tonnage>

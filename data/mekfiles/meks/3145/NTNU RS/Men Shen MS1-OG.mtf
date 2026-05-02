@@ -23,7 +23,7 @@ mul id:6894
 Config:Biped OmniMek
 techbase:Inner Sphere
 era:3134
-source:RS:3145-NTNU
+source:RS:3145-NTNU,TR:3145,RS:3145
 rules level:3
 role:Scout
 

@@ -93,7 +93,7 @@ IS BA Mimetic:LA
 <Trooper 5 Equipment>
 </Trooper 5 Equipment>
 <source>
-TR:3075
+TR:3075,RS:3075u-CE
 </source>
 
 <chassis>

@@ -24,7 +24,7 @@ mul id:8463
 Config:Biped OmniMek
 techbase:Clan
 era:2873
-source:Shrap08
+source:Shrap08,ShrapRS
 rules level:2
 role:Juggernaut
 

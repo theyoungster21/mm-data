@@ -104,7 +104,7 @@ IS Ammo RL-10
 </slotless_equipment>
 
 <source>
-TR:3145:DC
+TR:3145:DC,TR:3150,RS:3150
 </source>
 
 <tonnage>

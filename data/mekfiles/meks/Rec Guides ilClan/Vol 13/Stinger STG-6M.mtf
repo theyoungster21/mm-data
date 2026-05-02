@@ -23,7 +23,7 @@ mul id:8126
 Config:Biped
 techbase:Inner Sphere
 era:3097
-source:RG13
+source:RG13,RGv1
 rules level:2
 role:Scout
 

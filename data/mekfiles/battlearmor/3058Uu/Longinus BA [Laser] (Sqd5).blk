@@ -97,7 +97,7 @@ BAJumpJet
 BA-SRM2 Ammo:Shots1#
 </slotless_equipment>
 <source>
-TR:3058U
+TR:3058U,RS:3058Uu-C
 </source>
 
 <chassis>

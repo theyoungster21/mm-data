@@ -23,7 +23,7 @@ mul id:8066
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3143
-source:TR:3150
+source:TR:3150,RS:3150
 rules level:2
 role:Juggernaut
 

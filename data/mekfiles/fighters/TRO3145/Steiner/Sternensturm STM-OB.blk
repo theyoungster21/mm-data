@@ -133,7 +133,7 @@ ISAMS Ammo:OMNI
 </Fuselage Equipment>
 
 <source>
-TR:3145:LC
+TR:3145:LC,TR:3150,RS:3150
 </source>
 
 <tonnage>

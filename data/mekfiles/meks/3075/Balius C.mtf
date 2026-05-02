@@ -23,7 +23,7 @@ mul id:213
 Config:Quad OmniMek
 techbase:Clan
 era:3075
-source:TR:3075
+source:TR:3075,RS:3075u-CE
 rules level:2
 role:Skirmisher
 

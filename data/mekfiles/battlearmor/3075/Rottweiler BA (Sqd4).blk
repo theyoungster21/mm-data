@@ -85,7 +85,7 @@ IS BA Stealth (Basic):Body
 <Trooper 4 Equipment>
 </Trooper 4 Equipment>
 <source>
-TR:3075
+TR:3075,RS:3075u-CE
 </source>
 
 <chassis>

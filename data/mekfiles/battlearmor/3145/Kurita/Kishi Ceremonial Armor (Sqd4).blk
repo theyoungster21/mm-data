@@ -97,7 +97,7 @@ IS BA Laser Reflective (Reflec/Glazed):Body
 BAJumpJet
 </slotless_equipment>
 <source>
-TR:3145:DC
+TR:3145:DC,TR:3145,RS:3145
 </source>
 
 <chassis>

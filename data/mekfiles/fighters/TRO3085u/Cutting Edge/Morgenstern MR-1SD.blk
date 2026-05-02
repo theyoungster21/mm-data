@@ -137,7 +137,7 @@ IS Ammo MML-7 SRM Artemis-capable:OMNI
 </Fuselage Equipment>
 
 <source>
-TR:3085
+TR:3085,RS:3085u-CE
 </source>
 
 <tonnage>

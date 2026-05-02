@@ -94,7 +94,7 @@ InfantryAssaultRifle:APM
 <Trooper 4 Equipment>
 </Trooper 4 Equipment>
 <source>
-OTP:FR
+OTP:FR,RG28
 </source>
 
 <chassis>

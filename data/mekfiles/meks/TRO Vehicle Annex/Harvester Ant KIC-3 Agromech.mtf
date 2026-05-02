@@ -23,7 +23,7 @@ mul id:4265
 Config:Quad
 techbase:Inner Sphere
 era:2650
-source:TR:VAr
+source:TR:VAr,RS:VA
 rules level:2
 role:Ambusher
 

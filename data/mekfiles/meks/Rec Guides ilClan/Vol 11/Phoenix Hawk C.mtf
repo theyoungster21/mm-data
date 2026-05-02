@@ -23,7 +23,7 @@ mul id:7752
 Config:Biped
 techbase:Clan
 era:2831
-source:RG11
+source:RG11,RGv1
 rules level:2
 role:Striker
 

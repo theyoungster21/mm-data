@@ -23,7 +23,7 @@ mul id:707
 Config:Biped OmniMek
 techbase:Clan
 era:3058
-source:TR:3060
+source:TR:3060,TR:CI,RS:CI
 rules level:2
 role:Sniper
 

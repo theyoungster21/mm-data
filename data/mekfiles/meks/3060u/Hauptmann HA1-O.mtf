@@ -23,7 +23,7 @@ mul id:1420
 Config:Biped OmniMek
 techbase:Inner Sphere
 era:3060
-source:TR:3060
+source:TR:3060,TR:J,RS:J
 rules level:2
 role:Juggernaut
 

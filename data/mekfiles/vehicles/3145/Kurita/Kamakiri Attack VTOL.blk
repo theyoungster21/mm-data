@@ -117,7 +117,7 @@ Thunderbolt 10
 
 
 <source>
-TR:3145:DC
+TR:3145:DC,TR:3145,RS:3145
 </source>
 
 <tonnage>

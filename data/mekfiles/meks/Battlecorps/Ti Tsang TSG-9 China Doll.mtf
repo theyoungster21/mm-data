@@ -23,7 +23,7 @@ mul id:5241
 Config:Biped
 techbase:Inner Sphere
 era:3067
-source:BattleCorps
+source:BattleCorps,BC:"Heavy Metal Mayhem"
 rules level:4
 role:None
 

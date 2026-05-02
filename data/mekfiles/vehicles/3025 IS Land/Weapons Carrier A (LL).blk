@@ -104,7 +104,7 @@ Large Laser
 </Turret Equipment>
 
 <source>
-TR:3025
+TR:3025,RS5
 </source>
 
 <tonnage>

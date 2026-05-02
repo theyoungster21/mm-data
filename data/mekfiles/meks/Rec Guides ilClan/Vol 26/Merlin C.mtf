@@ -23,7 +23,7 @@ mul id:9319
 Config:Biped
 techbase:Clan
 era:3093
-source:RG26
+source:RG26,RGv1
 rules level:3
 role:Brawler
 

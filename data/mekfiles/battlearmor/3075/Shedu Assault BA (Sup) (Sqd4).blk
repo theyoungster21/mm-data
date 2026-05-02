@@ -93,7 +93,7 @@ BA-SRM3 Ammo:Shots1#
 BA-SRM3 Ammo:Shots1#
 </slotless_equipment>
 <source>
-TR:3075
+TR:3075,RS:3075u-CE
 </source>
 
 <chassis>

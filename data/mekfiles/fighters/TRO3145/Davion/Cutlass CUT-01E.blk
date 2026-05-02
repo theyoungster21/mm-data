@@ -135,7 +135,7 @@ IS Ammo Extended LRM-20
 
 
 <source>
-TR:3145:FS
+TR:3145:FS,TR:3145,RS:3145
 </source>
 
 <tonnage>

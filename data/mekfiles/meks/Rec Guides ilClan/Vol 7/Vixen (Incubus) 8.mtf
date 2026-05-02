@@ -24,7 +24,7 @@ mul id:7543
 Config:Biped
 techbase:Clan
 era:2962
-source:RG07
+source:RG07,RGv1
 rules level:2
 role:Striker
 

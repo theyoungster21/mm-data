@@ -157,7 +157,7 @@ MML is assigning 2 slots for armor when per pg 134 of TM it should have 0 slots 
 </notes>
 
 <source>
-TR:3085
+TR:3085,RS:3085u-CE
 </source>
 
 <tonnage>

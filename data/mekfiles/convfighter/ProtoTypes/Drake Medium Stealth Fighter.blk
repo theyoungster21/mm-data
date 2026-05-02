@@ -139,7 +139,7 @@ IS Ammo MML-3 SRM
 
 
 <source>
-TR:Proto
+TR:Proto,RS:Proto
 </source>
 
 <tonnage>

@@ -24,7 +24,7 @@ mul id:2002
 Config:Biped OmniMek
 techbase:Clan
 era:2945
-source:TR:CI
+source:TR:CI,RSFP:Wave 1
 rules level:2
 role:Skirmisher
 

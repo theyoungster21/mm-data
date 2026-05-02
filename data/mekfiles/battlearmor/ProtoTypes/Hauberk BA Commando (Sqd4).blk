@@ -101,7 +101,7 @@ IS BA Mimetic:Body
 BA-SRM2 Ammo:Shots1#
 </slotless_equipment>
 <source>
-TR:Proto
+TR:Proto,RS:Proto
 </source>
 
 <chassis>

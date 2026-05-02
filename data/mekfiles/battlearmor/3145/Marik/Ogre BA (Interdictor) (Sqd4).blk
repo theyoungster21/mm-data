@@ -96,7 +96,7 @@ IS BA Mimetic:LA
 BAJumpJet
 </slotless_equipment>
 <source>
-TR:3145:FWL
+TR:3145:FWL,TR:3145,RS:3145
 </source>
 
 <chassis>

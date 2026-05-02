@@ -23,7 +23,7 @@ mul id:1232
 Config:Quad
 techbase:Inner Sphere
 era:3047
-source:RG22
+source:RG22,RGv1
 rules level:2
 role:Sniper
 

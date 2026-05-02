@@ -23,7 +23,7 @@ mul id:7157
 Config:Biped
 techbase:Inner Sphere
 era:2627
-source:RS:VA
+source:RS:VA,TR:VAr
 rules level:2
 role:None
 

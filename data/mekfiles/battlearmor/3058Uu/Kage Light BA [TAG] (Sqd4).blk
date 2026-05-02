@@ -92,7 +92,7 @@ CLBALightTAG:SSWM:LA
 BAJumpJet
 </slotless_equipment>
 <source>
-TR:3058U
+TR:3058U,RS:3058Uu-C
 </source>
 
 <chassis>

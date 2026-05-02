@@ -105,7 +105,7 @@ CLLightMG
 </Rear Equipment>
 
 <source>
-TR:3145:C
+TR:3145:C,TR:3150,RS:3150
 </source>
 
 <tonnage>

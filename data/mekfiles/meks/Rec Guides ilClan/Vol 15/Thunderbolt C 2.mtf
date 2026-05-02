@@ -23,7 +23,7 @@ mul id:8195
 Config:Biped
 techbase:Clan
 era:3054
-source:RG15
+source:RG15,RGv1,RSFP:ELH
 rules level:2
 role:Juggernaut
 

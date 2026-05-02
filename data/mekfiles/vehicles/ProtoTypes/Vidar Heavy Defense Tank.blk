@@ -135,7 +135,7 @@ CLLargeChemicalLaser
 </Front Turret Equipment>
 
 <source>
-TR:Proto
+TR:Proto,RS:Proto
 </source>
 
 <tonnage>

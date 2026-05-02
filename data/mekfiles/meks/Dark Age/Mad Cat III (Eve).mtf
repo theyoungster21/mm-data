@@ -23,7 +23,7 @@ mul id:5543
 Config:Biped
 techbase:Clan
 era:3086
-source:DTP:Liao
+source:DTP:Liao,TR:DA
 rules level:2
 role:Sniper
 

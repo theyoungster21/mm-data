@@ -23,7 +23,7 @@ mul id:6516
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3116
-source:TR:3145:FWL
+source:TR:3145:FWL,TR:DA,RS:DA
 rules level:2
 role:Brawler
 

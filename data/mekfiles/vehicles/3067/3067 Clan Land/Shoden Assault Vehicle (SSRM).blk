@@ -119,7 +119,7 @@ CLStreakSRM6
 </Turret Equipment>
 
 <source>
-TR:3067
+TR:3067,RS:3067u
 </source>
 
 <tonnage>

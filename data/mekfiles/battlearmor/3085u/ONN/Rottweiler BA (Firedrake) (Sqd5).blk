@@ -89,7 +89,7 @@ IS BA Stealth (Basic):Body
 <Trooper 5 Equipment>
 </Trooper 5 Equipment>
 <source>
-TR:3085
+TR:3085,RS:3085u-ONN
 </source>
 
 <chassis>

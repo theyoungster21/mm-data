@@ -23,7 +23,7 @@ mul id:9215
 Config:Biped
 techbase:Clan
 era:3134
-source:TR:DA
+source:TR:DA,RS:DA
 rules level:3
 role:Sniper
 

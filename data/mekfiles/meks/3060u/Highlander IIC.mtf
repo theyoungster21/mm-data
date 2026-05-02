@@ -23,7 +23,7 @@ mul id:1524
 Config:Biped
 techbase:Clan
 era:2858
-source:TR:3060
+source:TR:3060,TR:CI,RS:CI
 rules level:2
 role:Missile Boat
 

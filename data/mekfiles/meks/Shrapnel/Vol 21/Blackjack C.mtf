@@ -23,7 +23,7 @@ mul id:8388
 Config:Biped
 techbase:Clan
 era:3089
-source:RSFP:WD
+source:RSFP:WD,TR:CI
 rules level:2
 role:Sniper
 

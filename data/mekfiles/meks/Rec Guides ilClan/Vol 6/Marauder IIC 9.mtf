@@ -23,7 +23,7 @@ mul id:7537
 Config:Biped
 techbase:Clan
 era:2831
-source:RG06
+source:RG06,RGv1
 rules level:2
 role:Sniper
 

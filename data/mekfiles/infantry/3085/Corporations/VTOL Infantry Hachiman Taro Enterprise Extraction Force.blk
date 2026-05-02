@@ -60,7 +60,7 @@ Myomer, Vest
 </Field Guns Equipment>
 
 <source>
-TR:3085
+TR:3085,RS:3085u-CE
 </source>
 
 <squad_size>

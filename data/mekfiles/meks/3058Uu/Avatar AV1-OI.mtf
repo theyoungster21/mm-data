@@ -23,7 +23,7 @@ mul id:169
 Config:Biped OmniMek
 techbase:Inner Sphere
 era:3078
-source:TR:3058U
+source:TR:3058U,TR:CI,RS:3058Uu-I
 rules level:3
 role:Missile Boat
 

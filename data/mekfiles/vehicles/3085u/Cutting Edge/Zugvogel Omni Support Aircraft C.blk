@@ -147,7 +147,7 @@ This configuration is 4 tons overweight as given in the official source.
 </notes>
 
 <source>
-TR:3085
+TR:3085,RS:3085u-CE
 </source>
 
 <tonnage>

@@ -102,7 +102,7 @@ Light PPC
 </Rear Equipment>
 
 <source>
-TR:3145:FS
+TR:3145:FS,TR:3150,RS:3150
 </source>
 
 <tonnage>

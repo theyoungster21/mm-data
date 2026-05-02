@@ -23,7 +23,7 @@ mul id:90
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:2824
-source:RG10
+source:RG10,RGv1
 rules level:3
 role:Missile Boat
 

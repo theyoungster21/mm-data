@@ -23,7 +23,7 @@ mul id:2067
 Config:Biped
 techbase:Clan
 era:3064
-source:TR:CI
+source:TR:CI,RS:CI
 rules level:2
 role:Brawler
 

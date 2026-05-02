@@ -24,7 +24,7 @@ mul id:1052
 Config:Biped OmniMek
 techbase:Clan
 era:3069
-source:TR:CI
+source:TR:CI,RS:CI
 rules level:2
 role:Scout
 

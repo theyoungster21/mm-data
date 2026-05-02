@@ -24,7 +24,7 @@ mul id:8131
 Config:Biped
 techbase:Clan
 era:3148
-source:RG13
+source:RG13,RGv1
 rules level:2
 role:Sniper
 

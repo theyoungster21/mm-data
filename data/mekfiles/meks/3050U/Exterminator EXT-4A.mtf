@@ -23,7 +23,7 @@ mul id:4147
 Config:Biped
 techbase:Inner Sphere
 era:3007
-source:TR:3050
+source:TR:3050,TR:SW,RSFP:Wave 2
 rules level:1
 role:Skirmisher
 

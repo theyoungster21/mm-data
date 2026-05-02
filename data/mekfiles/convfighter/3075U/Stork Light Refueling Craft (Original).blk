@@ -142,7 +142,7 @@ IS Ammo SRM-4
 
 
 <source>
-TR:3075
+TR:3075,RS:3075u-AW
 </source>
 
 <tonnage>

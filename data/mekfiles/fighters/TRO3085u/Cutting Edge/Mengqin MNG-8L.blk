@@ -135,7 +135,7 @@ IS Ammo LRM-15
 </Fuselage Equipment>
 
 <source>
-TR:3085
+TR:3085,RS:3085u-CE
 </source>
 
 <tonnage>

@@ -23,7 +23,7 @@ mul id:9508
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3148
-source:Shrap13
+source:Shrap13,ShrapRS
 rules level:2
 role:Sniper
 

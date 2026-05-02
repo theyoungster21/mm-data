@@ -91,7 +91,7 @@ ISBARemoteSensorDispenser:Body
 <Trooper 4 Equipment>
 </Trooper 4 Equipment>
 <source>
-TR:3085
+TR:3085,RS:3085u-CE
 </source>
 
 <chassis>

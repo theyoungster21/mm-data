@@ -98,7 +98,7 @@ BA Harjel not coded. Unit included for completeness
 </notes>
 
 <source>
-RS:3145-NTNU
+RS:3145-NTNU,TR:3145,RS:3145
 </source>
 
 <chassis>

@@ -23,7 +23,7 @@ mul id:8432
 Config:Biped
 techbase:Clan
 era:2842
-source:RG24
+source:RG24,RGv1
 rules level:3
 role:Sniper
 

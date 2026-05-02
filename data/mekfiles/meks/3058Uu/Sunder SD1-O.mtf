@@ -23,7 +23,7 @@ mul id:3123
 Config:Biped OmniMek
 techbase:Inner Sphere
 era:3056
-source:TR:3058U
+source:TR:3058U,TR:CI,RS:CI
 rules level:2
 role:Brawler
 

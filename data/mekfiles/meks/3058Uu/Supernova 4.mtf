@@ -23,7 +23,7 @@ mul id:3135
 Config:Biped
 techbase:Clan
 era:3067
-source:TR:3058U
+source:TR:3058U,TR:CI,RS:3058Uu-C
 rules level:2
 role:Juggernaut
 

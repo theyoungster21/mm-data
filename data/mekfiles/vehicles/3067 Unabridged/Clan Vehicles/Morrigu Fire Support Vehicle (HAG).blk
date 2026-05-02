@@ -120,7 +120,7 @@ CLLRM15
 </Turret Equipment>
 
 <source>
-RS:3067u
+RS:3067u,TR:3067
 </source>
 
 <tonnage>

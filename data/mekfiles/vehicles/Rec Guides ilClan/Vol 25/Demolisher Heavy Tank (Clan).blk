@@ -130,7 +130,7 @@ CLMediumPulseLaser
 
 
 <source>
-RG27
+RG27,RG25
 </source>
 
 <tonnage>

@@ -23,7 +23,7 @@ mul id:2066
 Config:Biped
 techbase:Clan
 era:3063
-source:TR:CI
+source:TR:CI,RSFP:Wave 2
 rules level:2
 role:Skirmisher
 

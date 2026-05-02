@@ -23,7 +23,7 @@ mul id:9495
 Config:Biped OmniMek
 techbase:Inner Sphere
 era:3144
-source:Shrap11
+source:Shrap11,ShrapRS
 rules level:3
 role:Skirmisher
 

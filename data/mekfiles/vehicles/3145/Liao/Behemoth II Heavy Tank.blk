@@ -140,7 +140,7 @@ IS Ammo RL-10
 
 
 <source>
-TR:3145:CC
+TR:3145:CC,TR:3145,RS:3145
 </source>
 
 <tonnage>

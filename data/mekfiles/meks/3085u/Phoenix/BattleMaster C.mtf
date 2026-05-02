@@ -23,7 +23,7 @@ mul id:303
 Config:Biped
 techbase:Clan
 era:3070
-source:RS:3085u-PP
+source:RS:3085u-PP,BattleCorps
 rules level:2
 role:Brawler
 

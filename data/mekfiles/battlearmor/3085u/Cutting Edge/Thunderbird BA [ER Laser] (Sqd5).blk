@@ -90,7 +90,7 @@ BAHeavyBattleClawVibro:LA
 BAJumpJet
 </slotless_equipment>
 <source>
-TR:3085
+TR:3085,TR:3085S,RS:3085u-CE
 </source>
 
 <chassis>

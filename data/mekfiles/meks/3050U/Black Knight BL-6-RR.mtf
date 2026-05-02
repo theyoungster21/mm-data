@@ -23,7 +23,7 @@ mul id:3826
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3057
-source:TR:3050
+source:TR:3050,R&R,RS:3050Uu-C
 rules level:3
 role:Brawler
 

@@ -23,7 +23,7 @@ mul id:346
 Config:Biped OmniMek
 techbase:Mixed (IS Chassis)
 era:3070
-source:JTP:Luthien
+source:JTP:Luthien,SB:S&D
 rules level:3
 role:Skirmisher
 

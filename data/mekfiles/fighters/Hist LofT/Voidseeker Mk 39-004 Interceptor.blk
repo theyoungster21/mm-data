@@ -131,7 +131,7 @@ Adding 4 points of armor 1 to each wing, 2 to the aft. Also reduced fuel by 1 to
 </notes>
 
 <source>
-His:LoT2
+His:LoT2,His:LoT1
 </source>
 
 <tonnage>

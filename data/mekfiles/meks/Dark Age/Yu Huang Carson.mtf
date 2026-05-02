@@ -23,7 +23,7 @@ mul id:5544
 Config:Biped
 techbase:Inner Sphere
 era:3060
-source:DTP:Liao
+source:DTP:Liao,TR:3060
 rules level:2
 role:Sniper
 

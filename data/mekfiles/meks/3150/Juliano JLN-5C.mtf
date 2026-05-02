@@ -23,7 +23,7 @@ mul id:8065
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3146
-source:TR:DA
+source:TR:DA,RS:DA
 rules level:2
 role:Brawler
 

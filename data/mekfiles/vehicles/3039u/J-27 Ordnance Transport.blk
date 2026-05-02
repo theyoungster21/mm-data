@@ -106,7 +106,7 @@ Machine Gun
 </Turret Equipment>
 
 <source>
-RS:3039u
+RS:3039u,TR:3039
 </source>
 
 <tonnage>

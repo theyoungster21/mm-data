@@ -23,7 +23,7 @@ mul id:2840
 Config:Quad
 techbase:Inner Sphere
 era:3072
-source:RG19
+source:RG19,RGv1
 rules level:2
 role:Missile Boat
 

@@ -24,7 +24,7 @@ mul id:7568
 Config:Biped
 techbase:Clan
 era:2877
-source:RG08
+source:RG08,RGv1
 rules level:2
 role:Scout
 

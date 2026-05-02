@@ -23,7 +23,7 @@ mul id:4824
 Config:LAM
 techbase:Inner Sphere
 era:2692
-source:TR:3085
+source:TR:3085,RS:3085u-CE
 rules level:3
 role:Striker
 

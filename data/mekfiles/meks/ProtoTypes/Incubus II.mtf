@@ -23,7 +23,7 @@ mul id:4363
 Config:Biped
 techbase:Clan
 era:3085
-source:TR:Proto
+source:TR:Proto,RS:Proto
 rules level:4
 role:Striker
 

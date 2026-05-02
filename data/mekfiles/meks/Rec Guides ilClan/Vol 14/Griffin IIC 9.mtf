@@ -23,7 +23,7 @@ mul id:8159
 Config:Biped
 techbase:Mixed (Clan Chassis)
 era:3144
-source:RG14
+source:RG14,RGv1
 rules level:2
 role:Striker
 

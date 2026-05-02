@@ -23,7 +23,7 @@ mul id:8386
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3134
-source:RG24
+source:RG24,RSFP:WD
 rules level:2
 role:Sniper
 

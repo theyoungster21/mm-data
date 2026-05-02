@@ -23,7 +23,7 @@ mul id:2876
 Config:Biped OmniMek
 techbase:Mixed (IS Chassis)
 era:3075
-source:JSBD
+source:JSBD,TR:J,RS:3075u-CE
 rules level:4
 role:Sniper
 

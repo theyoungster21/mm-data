@@ -23,7 +23,7 @@ mul id:420
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3068
-source:TR:3055U
+source:TR:3055U,RS:3055Uu
 rules level:4
 role:Sniper
 

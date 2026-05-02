@@ -23,7 +23,7 @@ mul id:1805
 Config:Biped
 techbase:Clan
 era:3001
-source:TR:3058U
+source:TR:3058U,TR:CI,RSFP:Wave 2
 rules level:2
 role:Brawler
 

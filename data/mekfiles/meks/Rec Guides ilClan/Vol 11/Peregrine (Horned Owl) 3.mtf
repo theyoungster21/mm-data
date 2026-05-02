@@ -24,7 +24,7 @@ mul id:2474
 Config:Biped
 techbase:Clan
 era:3061
-source:RG11
+source:RG11,RGv1
 rules level:2
 role:Sniper
 

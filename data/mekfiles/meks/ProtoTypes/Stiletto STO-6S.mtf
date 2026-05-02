@@ -23,7 +23,7 @@ mul id:5133
 Config:Biped
 techbase:Inner Sphere
 era:3083
-source:TR:Proto
+source:TR:Proto,RS:Proto
 rules level:4
 role:Striker
 

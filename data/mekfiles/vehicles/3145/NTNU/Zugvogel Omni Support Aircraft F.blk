@@ -166,7 +166,7 @@ Advanced Fire Control
 </engine_tech_rating>
 
 <source>
-RS:3145-NTNU
+RS:3145-NTNU,RS:3145
 </source>
 
 <tonnage>

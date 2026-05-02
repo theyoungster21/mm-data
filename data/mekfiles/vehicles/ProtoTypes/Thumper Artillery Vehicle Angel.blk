@@ -113,7 +113,7 @@ Machine Gun(ST)
 </Rear Equipment>
 
 <source>
-TR:Proto
+TR:Proto,RS:Proto
 </source>
 
 <tonnage>

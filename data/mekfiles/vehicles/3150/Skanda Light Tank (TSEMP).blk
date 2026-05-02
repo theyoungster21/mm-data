@@ -103,7 +103,7 @@ TSEMP Cannon
 </Rear Equipment>
 
 <source>
-RS:3150
+RS:3150,TR:3150
 </source>
 
 <tonnage>

@@ -23,7 +23,7 @@ mul id:1569
 Config:Biped
 techbase:Clan
 era:3061
-source:TR:3058U
+source:TR:3058U,TR:CI,RSFP:Wave 2
 rules level:2
 role:Ambusher
 

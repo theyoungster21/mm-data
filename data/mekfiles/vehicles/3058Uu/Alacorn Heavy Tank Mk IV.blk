@@ -110,7 +110,7 @@ Autocannon/20
 </Turret Equipment>
 
 <source>
-TR:3058U
+TR:3058U,RS:3058Uu-C
 </source>
 
 <tonnage>

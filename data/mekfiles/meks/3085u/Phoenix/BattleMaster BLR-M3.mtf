@@ -23,7 +23,7 @@ mul id:302
 Config:Biped
 techbase:Inner Sphere
 era:3070
-source:RS:3085u-PP
+source:RS:3085u-PP,BattleCorps
 rules level:2
 role:Sniper
 

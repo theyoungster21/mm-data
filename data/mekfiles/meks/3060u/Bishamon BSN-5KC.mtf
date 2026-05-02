@@ -23,7 +23,7 @@ mul id:334
 Config:Quad
 techbase:Inner Sphere
 era:3076
-source:TR:3060
+source:TR:3060,RS:3060u
 rules level:2
 role:Striker
 

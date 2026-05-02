@@ -23,7 +23,7 @@ mul id:3479
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:2825
-source:RG07
+source:RG07,RGv1
 rules level:3
 role:Brawler
 

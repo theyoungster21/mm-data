@@ -114,7 +114,7 @@ IS Ammo RL-20
 </slotless_equipment>
 
 <source>
-His:OK
+His:OK,RS:OK
 </source>
 
 <tonnage>

@@ -99,7 +99,7 @@ cargobay:2.0:1:1::-1:0
 </Rear Equipment>
 
 <source>
-TR:3039
+TR:3039,RS:3039u
 </source>
 
 <tonnage>
