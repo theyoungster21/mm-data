@@ -23,7 +23,7 @@ mul id:367
 Config:Biped OmniMek
 techbase:Clan
 era:3062
-source:TR:3058U,TR:CI,RS:CI
+source:TR:3058U,TR:CI
 published:RS:CI
 rules level:2
 role:Skirmisher

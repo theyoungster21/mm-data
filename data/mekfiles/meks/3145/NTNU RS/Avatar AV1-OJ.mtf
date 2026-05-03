@@ -23,7 +23,7 @@ mul id:6874
 Config:Biped OmniMek
 techbase:Mixed (IS Chassis)
 era:3099
-source:RS:3145-NTNU,TR:CI,RS:3145
+source:TR:CI
 published:RS:3145-NTNU,RS:3145
 rules level:2
 role:Sniper

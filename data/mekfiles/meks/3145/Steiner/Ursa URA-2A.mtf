@@ -23,7 +23,7 @@ mul id:6627
 Config:Quad
 techbase:Inner Sphere
 era:3122
-source:TR:3145:LC,TR:DA,RS:DA
+source:TR:3145:LC,TR:DA
 published:RS:DA
 rules level:3
 role:Skirmisher

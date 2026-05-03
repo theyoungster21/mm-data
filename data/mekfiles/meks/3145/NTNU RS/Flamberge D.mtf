@@ -23,7 +23,7 @@ mul id:6873
 Config:Biped OmniMek
 techbase:Mixed (Clan Chassis)
 era:3115
-source:TR:3145,TR:J,RS:3145
+source:TR:3145,TR:J
 published:RS:3145
 rules level:4
 role:Juggernaut

@@ -23,7 +23,7 @@ mul id:2053
 Config:Biped
 techbase:Clan
 era:3064
-source:BD:BH,TR:CI,RS:CI
+source:BD:BH,TR:CI
 published:RS:CI
 rules level:2
 role:Sniper

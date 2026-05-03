@@ -22,7 +22,7 @@ model:ON1-Kb
 Config:Biped
 techbase:Inner Sphere
 era:2750
-source:RSFP:SLDF
+source:
 published:RSFP:SLDF
 rules level:2
 role:Brawler

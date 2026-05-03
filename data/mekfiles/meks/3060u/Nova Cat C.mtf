@@ -23,7 +23,7 @@ mul id:2301
 Config:Biped OmniMek
 techbase:Clan
 era:3059
-source:TR:3060,TR:CI,RS:CI
+source:TR:3060,TR:CI
 published:RS:CI
 rules level:2
 role:Sniper

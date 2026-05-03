@@ -23,7 +23,7 @@ mul id:6837
 Config:Biped OmniMek
 techbase:Mixed (IS Chassis)
 era:3136
-source:RS:3145-NTNU,TR:J,RS:3145
+source:TR:J
 published:RS:3145-NTNU,RS:3145
 rules level:3
 role:Juggernaut

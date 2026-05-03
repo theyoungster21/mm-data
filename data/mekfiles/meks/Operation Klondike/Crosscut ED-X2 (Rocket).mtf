@@ -23,7 +23,7 @@ mul id:6973
 Config:Biped
 techbase:Inner Sphere
 era:2810
-source:RS:OK,His:OK
+source:His:OK
 published:RS:OK
 rules level:4
 role:Ambusher

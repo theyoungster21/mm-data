@@ -24,7 +24,7 @@ mul id:7755
 Config:Biped OmniMek
 techbase:Clan
 era:3127
-source:RG11,RSFP:GDL
+source:RG11
 published:RSFP:GDL,RG11
 rules level:2
 role:Brawler

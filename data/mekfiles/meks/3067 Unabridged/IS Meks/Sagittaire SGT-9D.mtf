@@ -23,7 +23,7 @@ mul id:5717
 Config:Biped
 techbase:Inner Sphere
 era:3074
-source:RS:3067u,TR:J,RSFP:ELH
+source:TR:J
 published:RS:3067u,RSFP:ELH
 rules level:2
 role:Juggernaut

@@ -23,7 +23,7 @@ mul id:2465
 Config:Biped
 techbase:Inner Sphere
 era:3053
-source:TR:3055U,TR:CI,RSFP:HRR
+source:TR:3055U,TR:CI
 published:RSFP:HRR
 rules level:2
 role:Skirmisher

@@ -23,7 +23,7 @@ mul id:6553
 Config:Quad
 techbase:Clan
 era:3110
-source:TR:3145:Merc,TR:DA,RS:DA
+source:TR:3145:Merc,TR:DA
 published:RS:DA
 rules level:3
 role:Skirmisher

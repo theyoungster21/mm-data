@@ -22,7 +22,7 @@ model:RFL-3N-2 (Legend Killer)
 Config:Biped
 techbase:Inner Sphere
 era:3050
-source:RS:3055U
+source:
 published:RS:3055U
 rules level:2
 

@@ -121,7 +121,7 @@ ISLBXAC10:OMNI
 </Turret Equipment>
 
 <source>
-TR:3145:FWL,TR:3145,RS:3145
+TR:3145:FWL,TR:3145
 </source>
 
 <published>

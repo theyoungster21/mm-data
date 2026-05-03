@@ -24,7 +24,7 @@ mul id:1244
 Config:Biped
 techbase:Clan
 era:2912
-source:RG09,RGv1,RSFP:Wave 2
+source:RG09,RGv1
 published:RSFP:Wave 2,RG09,RGv1
 rules level:2
 role:Skirmisher

@@ -23,7 +23,7 @@ mul id:3065
 Config:Biped
 techbase:Inner Sphere
 era:3068
-source:TR:3085,BattleCorps,RS:3085u-PP
+source:TR:3085,BattleCorps
 published:RS:3085u-PP
 rules level:2
 role:Scout

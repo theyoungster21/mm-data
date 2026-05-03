@@ -23,7 +23,7 @@ mul id:7780
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3140
-source:RG12,RSFP:HRR
+source:RG12
 published:RSFP:HRR,RG12
 rules level:3
 role:Striker

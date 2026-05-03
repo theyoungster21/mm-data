@@ -112,7 +112,7 @@ ISGaussRifle
 </Turret Equipment>
 
 <source>
-TR:3145:CC,TR:3145,RS:3145
+TR:3145:CC,TR:3145
 </source>
 
 <published>

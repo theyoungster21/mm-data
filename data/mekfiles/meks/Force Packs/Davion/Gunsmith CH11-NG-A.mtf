@@ -22,7 +22,7 @@ model:CH11-NG-A
 Config:Biped
 techbase:Inner Sphere
 era:3131
-source:RSFP:Davion
+source:
 published:RSFP:Davion
 rules level:3
 role:Striker

@@ -24,7 +24,7 @@ mul id:6562
 Config:Biped OmniMek
 techbase:Clan
 era:3137
-source:TR:3145:Merc,TR:DA,RS:DA
+source:TR:3145:Merc,TR:DA
 published:RS:DA
 rules level:3
 role:Brawler

@@ -23,7 +23,7 @@ mul id:6549
 Config:Biped
 techbase:Clan
 era:3095
-source:TR:3145:Merc,TR:DA,RS:DA
+source:TR:3145:Merc,TR:DA
 published:RS:DA
 rules level:2
 role:Scout

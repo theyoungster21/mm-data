@@ -23,7 +23,7 @@ mul id:5193
 Config:Biped OmniMek
 techbase:Inner Sphere
 era:3067
-source:TR:3067,TR:J,RS:3067u
+source:TR:3067,TR:J
 published:RS:3067u,RSFP:Davion
 rules level:2
 role:Brawler

@@ -89,7 +89,7 @@ BACargoLifter:RA:SIZE:1
 <Trooper 5 Equipment>
 </Trooper 5 Equipment>
 <source>
-TR:VAr,RS:VA
+TR:VAr
 </source>
 
 <published>

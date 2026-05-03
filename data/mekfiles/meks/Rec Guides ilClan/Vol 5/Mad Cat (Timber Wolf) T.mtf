@@ -24,7 +24,7 @@ mul id:7517
 Config:Biped OmniMek
 techbase:Clan
 era:3142
-source:RG05,RSFP:WD
+source:RG05
 published:RSFP:WD,RG05,RS:AS
 rules level:4
 role:Missile Boat

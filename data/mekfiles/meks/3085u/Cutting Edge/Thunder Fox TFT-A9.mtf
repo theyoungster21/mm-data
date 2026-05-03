@@ -23,7 +23,7 @@ mul id:3217
 Config:Quad
 techbase:Inner Sphere
 era:3077
-source:TR:3085,TR:DA,RS:DA
+source:TR:3085,TR:DA
 published:RS:DA
 rules level:2
 role:Sniper

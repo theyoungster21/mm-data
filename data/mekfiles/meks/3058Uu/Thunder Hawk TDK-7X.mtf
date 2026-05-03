@@ -23,7 +23,7 @@ mul id:3222
 Config:Biped
 techbase:Inner Sphere
 era:2771
-source:TR:3058U,TR:SW,RS:SW
+source:TR:3058U,TR:SW
 published:RS:SW,RSFP:SLDF
 rules level:2
 role:Sniper

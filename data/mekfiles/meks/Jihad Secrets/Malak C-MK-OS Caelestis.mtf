@@ -23,7 +23,7 @@ mul id:2000
 Config:Biped OmniMek
 techbase:Inner Sphere
 era:3075
-source:JSBD,TR:J,RS:3075u-CE
+source:JSBD,TR:J
 published:RS:3075u-CE
 rules level:4
 role:Striker

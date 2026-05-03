@@ -23,7 +23,7 @@ mul id:8223
 Config:Biped
 techbase:Inner Sphere
 era:3133
-source:RG17,RSFP:KH
+source:RG17
 published:RSFP:KH,RG17
 rules level:3
 role:Striker

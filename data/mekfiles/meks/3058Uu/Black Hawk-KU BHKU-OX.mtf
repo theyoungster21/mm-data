@@ -23,7 +23,7 @@ mul id:354
 Config:Biped OmniMek
 techbase:Inner Sphere
 era:3058
-source:TR:3058U,TR:CI,RS:3058Uu-I
+source:TR:3058U,TR:CI
 published:RS:3058Uu-I
 rules level:4
 role:Skirmisher

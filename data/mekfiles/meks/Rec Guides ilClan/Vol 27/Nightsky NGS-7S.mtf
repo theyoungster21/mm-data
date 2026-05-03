@@ -23,7 +23,7 @@ mul id:9352
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3142
-source:RG27,RSFP:KH
+source:RG27
 published:RSFP:KH,RG27
 rules level:3
 role:Striker

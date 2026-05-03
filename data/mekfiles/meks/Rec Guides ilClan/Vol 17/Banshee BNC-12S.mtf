@@ -23,7 +23,7 @@ mul id:8246
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3138
-source:RG17,RSFP:ELH
+source:RG17
 published:RSFP:ELH,RG17
 rules level:2
 role:Brawler

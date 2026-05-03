@@ -23,7 +23,7 @@ mul id:2895
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:2826
-source:RG12,RGv1,RSFP:GDL
+source:RG12,RGv1
 published:RSFP:GDL,RG12,RGv1
 rules level:2
 role:Skirmisher

@@ -23,7 +23,7 @@ mul id:6928
 Config:Biped OmniMek
 techbase:Clan
 era:3099
-source:RG19,RS:3145
+source:RG19
 published:RS:3145,RG19
 rules level:2
 role:Striker

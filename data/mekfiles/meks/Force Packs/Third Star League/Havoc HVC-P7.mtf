@@ -22,7 +22,7 @@ model:HVC-P7
 Config:Biped
 techbase:Inner Sphere
 era:3112
-source:RSFP:SLDF3
+source:
 published:RSFP:SLDF3
 rules level:2
 role:Striker

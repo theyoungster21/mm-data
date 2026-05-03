@@ -23,7 +23,7 @@ mul id:6613
 Config:Quad
 techbase:Clan
 era:3123
-source:TR:3145:LC,TR:DA,RS:DA
+source:TR:3145:LC,TR:DA
 published:RS:DA
 rules level:2
 role:Striker

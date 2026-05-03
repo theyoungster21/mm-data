@@ -23,7 +23,7 @@ mul id:2535
 Config:Biped
 techbase:Clan
 era:3051
-source:TR:3058U,TR:CI,RSFP:Wave 2
+source:TR:3058U,TR:CI
 published:RSFP:Wave 2
 rules level:2
 role:Striker

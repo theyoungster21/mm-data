@@ -23,7 +23,7 @@ mul id:6724
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3137
-source:TR:3145:RotS,TR:DA,RS:DA
+source:TR:3145:RotS,TR:DA
 published:RS:DA
 rules level:3
 role:Brawler

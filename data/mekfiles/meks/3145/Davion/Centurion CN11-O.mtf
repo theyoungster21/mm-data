@@ -23,7 +23,7 @@ mul id:6340
 Config:Biped OmniMek
 techbase:Inner Sphere
 era:3111
-source:TR:3145:FS,TR:DA,RS:DA
+source:TR:3145:FS,TR:DA
 published:RS:DA
 rules level:2
 role:Brawler

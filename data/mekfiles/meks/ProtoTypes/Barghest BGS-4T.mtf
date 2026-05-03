@@ -23,7 +23,7 @@ mul id:3790
 Config:Quad
 techbase:Inner Sphere
 era:3083
-source:TR:Proto,RS:Proto
+source:TR:Proto
 published:RS:Proto
 rules level:3
 role:Brawler

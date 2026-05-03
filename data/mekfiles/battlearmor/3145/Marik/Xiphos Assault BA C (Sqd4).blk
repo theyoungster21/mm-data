@@ -90,7 +90,7 @@ BABasicManipulator:RA
 BAJumpJet
 </slotless_equipment>
 <source>
-TR:3145:FWL,TR:3150,RS:3150
+TR:3145:FWL,TR:3150
 </source>
 
 <published>

@@ -23,7 +23,7 @@ mul id:7433
 Config:Biped
 techbase:Inner Sphere
 era:2954
-source:TR:3025C,TR:SW,RS:SW
+source:TR:3025C,TR:SW
 published:RS:SW
 rules level:1
 role:Juggernaut

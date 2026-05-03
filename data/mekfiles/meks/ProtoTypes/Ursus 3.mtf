@@ -23,7 +23,7 @@ mul id:5329
 Config:Biped
 techbase:Clan
 era:3079
-source:TR:Proto,RS:Proto
+source:TR:Proto
 published:RS:Proto
 rules level:4
 role:Juggernaut

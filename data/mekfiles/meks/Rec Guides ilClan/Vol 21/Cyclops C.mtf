@@ -23,7 +23,7 @@ mul id:8357
 Config:Biped
 techbase:Clan
 era:3147
-source:RG21,RSFP:ELH
+source:RG21
 published:RSFP:ELH,RG21
 rules level:3
 role:Brawler

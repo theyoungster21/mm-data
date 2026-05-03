@@ -23,7 +23,7 @@ mul id:9354
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3131
-source:RG27,RSFP:NWH
+source:RG27
 published:RSFP:NWH,RG27
 rules level:3
 role:Juggernaut

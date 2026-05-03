@@ -23,7 +23,7 @@ mul id:7177
 Config:Biped
 techbase:Inner Sphere
 era:3070
-source:RS:VA,TR:VAr
+source:TR:VAr
 published:RS:VA
 rules level:2
 role:Missile Boat

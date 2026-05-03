@@ -23,7 +23,7 @@ mul id:6262
 Config:Biped OmniMek
 techbase:Mixed (Clan Chassis)
 era:3137
-source:TR:3145:C,TR:DA,RS:DA
+source:TR:3145:C,TR:DA
 published:RS:DA
 rules level:3
 role:Striker

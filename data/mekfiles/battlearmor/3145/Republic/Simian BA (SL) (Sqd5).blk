@@ -94,7 +94,7 @@ BASearchlight:Body
 BAJumpJet
 </slotless_equipment>
 <source>
-TR:3145:RotS,TR:3145,RS:3145
+TR:3145:RotS,TR:3145
 </source>
 
 <published>

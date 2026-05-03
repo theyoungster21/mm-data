@@ -24,7 +24,7 @@ mul id:189
 Config:Biped
 techbase:Clan
 era:2871
-source:TR:3055U,RGv1,RSFP:Wave 2
+source:TR:3055U,RGv1
 published:RSFP:Wave 2,RGv1
 rules level:2
 role:Missile Boat

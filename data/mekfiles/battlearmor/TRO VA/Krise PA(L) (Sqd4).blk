@@ -89,7 +89,7 @@ ISImprovedSensors:Body
 BAJumpJet
 </slotless_equipment>
 <source>
-TR:VAr,RS:VA
+TR:VAr
 </source>
 
 <published>

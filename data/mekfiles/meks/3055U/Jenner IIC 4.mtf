@@ -23,7 +23,7 @@ mul id:1701
 Config:Biped
 techbase:Clan
 era:3061
-source:TR:3055U,RS:3055Uu
+source:TR:3055U
 published:RS:3055Uu
 rules level:2
 role:Striker

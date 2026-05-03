@@ -23,7 +23,7 @@ mul id:856
 Config:Biped OmniMek
 techbase:Clan
 era:3085
-source:TR:3085S,TR:J,RS:J
+source:TR:3085S,TR:J
 published:RS:J
 rules level:2
 role:Sniper

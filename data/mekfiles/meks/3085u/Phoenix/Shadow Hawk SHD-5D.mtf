@@ -23,7 +23,7 @@ mul id:2905
 Config:Biped
 techbase:Inner Sphere
 era:3066
-source:TR:3085S,TR:PP,RS:3085u-PP
+source:TR:3085S,TR:PP
 published:RS:3085u-PP
 rules level:2
 role:Skirmisher
