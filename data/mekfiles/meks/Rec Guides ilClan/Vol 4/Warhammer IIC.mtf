@@ -24,7 +24,7 @@ Config:Biped
 techbase:Clan
 era:2829
 source:RG04,RGv1,RSFP:Wave 2
-published:RSFP:Wave 2
+published:RSFP:Wave 2,RG04,RGv1
 rules level:2
 role:Brawler
 

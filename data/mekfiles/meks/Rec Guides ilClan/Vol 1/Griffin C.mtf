@@ -24,7 +24,7 @@ Config:Biped
 techbase:Mixed (Clan Chassis)
 era:3144
 source:RG01,RGv1,RSFP:KH
-published:RSFP:KH
+published:RSFP:KH,RG01,RGv1
 rules level:2
 role:Sniper
 

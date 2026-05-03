@@ -25,7 +25,7 @@ Config:Biped
 techbase:Clan
 era:2856
 source:RG11,RGv1,RSFP:Wave 2
-published:RSFP:Wave 2
+published:RSFP:Wave 2,RG11,RGv1
 rules level:2
 role:Missile Boat
 

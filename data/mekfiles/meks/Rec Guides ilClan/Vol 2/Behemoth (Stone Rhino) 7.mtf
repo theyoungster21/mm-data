@@ -25,6 +25,7 @@ Config:Biped
 techbase:Clan
 era:3001
 source:RG02,RGv1
+published:RG02,RGv1
 rules level:2
 role:Sniper
 

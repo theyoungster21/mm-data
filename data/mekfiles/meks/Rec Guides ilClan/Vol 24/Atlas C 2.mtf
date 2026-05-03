@@ -24,7 +24,7 @@ Config:Biped
 techbase:Clan
 era:2840
 source:RG24,RGv1,RSFP:HRR
-published:RSFP:HRR
+published:RSFP:HRR,RG24,RGv1
 rules level:2
 role:Juggernaut
 

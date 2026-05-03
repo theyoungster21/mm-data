@@ -24,7 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3138
 source:RG17,RSFP:ELH
-published:RSFP:ELH
+published:RSFP:ELH,RG17
 rules level:2
 role:Brawler
 

@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3144
 source:RG06
+published:RG06
 rules level:4
 role:Sniper
 

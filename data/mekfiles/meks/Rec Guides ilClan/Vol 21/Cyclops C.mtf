@@ -24,7 +24,7 @@ Config:Biped
 techbase:Clan
 era:3147
 source:RG21,RSFP:ELH
-published:RSFP:ELH
+published:RSFP:ELH,RG21
 rules level:3
 role:Brawler
 
