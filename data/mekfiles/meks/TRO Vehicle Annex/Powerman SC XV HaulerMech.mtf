@@ -35,6 +35,9 @@ myomer:Standard
 cockpit:Industrial Cockpit
 gyro:Standard Gyro
 
+quirk:easy_maintain
+quirk:stable
+
 heat sinks:0 Single
 walk mp:4
 jump mp:0

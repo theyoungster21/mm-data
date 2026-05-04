@@ -35,6 +35,10 @@ myomer:Industrial Triple-Strength
 cockpit:Industrial Cockpit
 gyro:Standard Gyro
 
+quirk:easy_pilot
+quirk:gas_hog
+quirk:non_standard
+
 heat sinks:0 Single
 walk mp:3
 jump mp:0

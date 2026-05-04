@@ -33,6 +33,8 @@ engine:100 ICE Engine
 structure:IS Industrial
 myomer:Standard
 
+quirk:easy_pilot
+
 heat sinks:1 Single
 walk mp:4
 jump mp:0

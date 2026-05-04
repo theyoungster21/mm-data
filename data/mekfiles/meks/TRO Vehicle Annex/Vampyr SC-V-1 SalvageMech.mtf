@@ -35,6 +35,9 @@ myomer:Industrial Triple-Strength
 cockpit:Industrial Cockpit
 gyro:Standard Gyro
 
+quirk:rumble_seat
+quirk:exp_actuator
+
 heat sinks:2 Single
 walk mp:4
 jump mp:0

@@ -45,8 +45,8 @@ IS Level 2
 </type>
 
 <quirks>
-internal_bomb
 atmo_flyer
+internal_bomb
 poor_performance
 </quirks>
 

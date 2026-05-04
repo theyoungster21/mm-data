@@ -33,6 +33,10 @@ engine:100 Fuel Cell Engine
 structure:IS Industrial
 myomer:Standard
 
+quirk:easy_maintain
+quirk:imp_target_short
+quirk:poor_life_support
+
 heat sinks:3 Single
 walk mp:4
 jump mp:0

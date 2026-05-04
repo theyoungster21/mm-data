@@ -44,6 +44,11 @@ C2
 IS Level 2
 </type>
 
+<quirks>
+easy_maintain
+vtol_rotor_dual
+</quirks>
+
 <motion_type>
 VTOL
 </motion_type>

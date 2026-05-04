@@ -48,6 +48,11 @@ IS Level 3
 None
 </role>
 
+<quirks>
+easy_maintain
+gas_hog
+</quirks>
+
 <motion_type>
 Tracked
 </motion_type>

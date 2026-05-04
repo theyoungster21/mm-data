@@ -48,6 +48,12 @@ IS Level 2
 None
 </role>
 
+<quirks>
+bad_rep_is
+bad_rep_clan
+poor_work
+</quirks>
+
 <motion_type>
 Wheeled
 </motion_type>
