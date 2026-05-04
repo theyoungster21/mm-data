@@ -23,7 +23,8 @@ mul id:9637
 Config:Biped
 techbase:Mixed (Clan Chassis)
 era:3137
-source:Shrap16,ShrapRS
+source:Shrap16
+published:ShrapRS
 rules level:3
 role:Striker
 
