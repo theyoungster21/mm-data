@@ -20,6 +20,9 @@ name: Azami Caliphate
 sucsCodes:
   - AC
 capital: Algedi
+yearsActive:
+  - start: 2450
+    end: 2516
 successor: DC
 tags:
   - MINOR

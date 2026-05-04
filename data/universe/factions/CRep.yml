@@ -19,6 +19,9 @@ key: CRep
 name: Capellan Republic
 sucsCodes: []  # no SUCS equivalent
 capital: Capella
+yearsActive:
+  - start: 2194
+    end: 2270
 successor: CH
 tags:
   - MINOR

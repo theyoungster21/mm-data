@@ -20,6 +20,9 @@ name: Finmark Free Republic
 sucsCodes:
   - FFR
 capital: Finmark
+yearsActive:
+  - start: 2779
+    end: 2802
 tags:
   - MINOR
   - PERIPHERY

@@ -20,6 +20,9 @@ name: Marlette Association
 sucsCodes:
   - MarA
 capital: Terra
+yearsActive:
+  - start: 2278
+    end: 2324
 successor: FS
 tags:
   - MINOR

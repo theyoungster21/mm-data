@@ -20,6 +20,9 @@ name: Mosiro Archipelago
 sucsCodes:
   - MA
 capital: Mosiro
+yearsActive:
+  - start: 3079
+    end: 3104
 successor: DA
 tags:
   - MINOR
