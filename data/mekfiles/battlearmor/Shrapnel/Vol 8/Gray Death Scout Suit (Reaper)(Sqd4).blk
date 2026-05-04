@@ -93,8 +93,12 @@ IS BA Stealth (Improved):LA
 BAJumpJet
 </slotless_equipment>
 <source>
-Shrap08,ShrapRS
+Shrap08
 </source>
+
+<published>
+ShrapRS
+</published>
 
 <chassis>
 biped

@@ -23,7 +23,8 @@ mul id:9243
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3084
-source:TR:3055U,Shrap09,ShrapRS
+source:TR:3055U,Shrap09
+published:ShrapRS
 rules level:2
 role:Striker
 
