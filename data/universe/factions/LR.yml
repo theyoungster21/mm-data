@@ -20,6 +20,9 @@ name: Liao Republic
 sucsCodes:
   - LR
 capital: Terra
+yearsActive:
+  - start: 2189
+    end: 2315
 tags:
   - IS
 color:

@@ -18,7 +18,10 @@
 key: SP
 name: Sarna Protectorate
 sucsCodes: []  # no SUCS equivalent
-capital: Terra
+capital: Sarna
+yearsActive:
+  - start: 3062
+    end: 3066
 tags:
   - MINOR
   - IS

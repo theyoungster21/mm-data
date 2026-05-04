@@ -20,6 +20,9 @@ name: Tikonov Grand Union
 sucsCodes:
   - TGU
 capital: Terra
+yearsActive:
+  - start: 2243
+    end: 2367
 successor: CC
 tags:
   - MINOR

@@ -20,6 +20,9 @@ name: Ozawa Mercantile Association
 sucsCodes:
   - OMA
 capital: Terra
+yearsActive:
+  - start: 2200
+    end: 2303
 tags:
   - TRADER
 color:

@@ -20,6 +20,9 @@ name: Muskegon Coalition
 sucsCodes:
   - MuC
 capital: Muskegon
+yearsActive:
+  - start: 2163
+    end: 2318
 successor: FS
 tags:
   - MINOR

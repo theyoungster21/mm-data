@@ -20,6 +20,9 @@ name: Marik Republic
 sucsCodes:
   - MR
 capital: Marik
+yearsActive:
+  - start: 2241
+    end: 2246
 successor: FWL
 tags:
   - MINOR

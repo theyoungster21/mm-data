@@ -19,6 +19,9 @@ key: RPG
 name: Rim Provisional Government
 sucsCodes: []  # no SUCS equivalent
 capital: Apollo
+yearsActive:
+  - start: 2575
+    end: 2596
 tags:
   - PERIPHERY
   - SMALL

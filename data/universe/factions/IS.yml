@@ -21,6 +21,7 @@ sucsCodes: []  # no SUCS equivalent
 tags:
   - IS
   - AGGREGATE
+  - SPECIAL
 ratingLevels:
   - F
   - D
