@@ -108,8 +108,12 @@ Medium Laser
 </Rotor Equipment>
 
 <source>
-Record Sheets: 3075
+TR:3075
 </source>
+
+<published>
+RS:3075u-AW
+</published>
 
 <tonnage>
 30.0

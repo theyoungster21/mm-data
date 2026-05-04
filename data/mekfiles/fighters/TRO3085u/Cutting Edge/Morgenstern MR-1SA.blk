@@ -132,6 +132,10 @@ ISPlasmaRifleAmmo:OMNI
 TR:3085
 </source>
 
+<published>
+RS:3085u-CE
+</published>
+
 <tonnage>
 70.0
 </tonnage>

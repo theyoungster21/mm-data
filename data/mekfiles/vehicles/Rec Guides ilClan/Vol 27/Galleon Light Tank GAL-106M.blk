@@ -125,6 +125,10 @@ ISERMediumLaser
 RG27
 </source>
 
+<published>
+RG27,RS:MERCS
+</published>
+
 <tonnage>
 30.0
 </tonnage>

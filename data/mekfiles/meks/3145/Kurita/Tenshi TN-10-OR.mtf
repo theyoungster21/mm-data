@@ -23,7 +23,8 @@ mul id:6424
 Config:Biped OmniMek
 techbase:Mixed (IS Chassis)
 era:3101
-source:TR:3145:DC
+source:TR:3145:DC,TR:DA
+published:RS:DA
 rules level:4
 role:Missile Boat
 

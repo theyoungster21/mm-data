@@ -23,7 +23,8 @@ mul id:2398
 Config:Biped
 techbase:Mixed (Clan Chassis)
 era:3082
-source:TR:3085
+source:TR:3085,TR:DA
+published:RS:DA
 rules level:4
 role:Striker
 

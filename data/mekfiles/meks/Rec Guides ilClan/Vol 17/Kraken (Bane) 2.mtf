@@ -24,7 +24,8 @@ mul id:1842
 Config:Biped
 techbase:Clan
 era:3053
-source:RG17
+source:RG17,RGv1
+published:RG17,RGv1
 rules level:2
 role:Sniper
 

@@ -117,8 +117,12 @@ Medium Laser
 </Turret Equipment>
 
 <source>
-TR:3085
+TR:3085,TR:3085S
 </source>
+
+<published>
+RS:3085u-CE
+</published>
 
 <tonnage>
 55.0

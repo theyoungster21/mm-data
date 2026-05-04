@@ -92,6 +92,10 @@ BACargoLifter:RA:SIZE:1
 TR:VAr
 </source>
 
+<published>
+RS:VA
+</published>
+
 <chassis>
 biped
 </chassis>

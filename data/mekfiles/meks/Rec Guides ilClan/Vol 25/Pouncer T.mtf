@@ -23,7 +23,8 @@ mul id:9262
 Config:Biped OmniMek
 techbase:Mixed (Clan Chassis)
 era:3142
-source:TR:3055U
+source:TR:3055U,RG25
+published:RG25,RS:AS
 rules level:2
 role:Scout
 

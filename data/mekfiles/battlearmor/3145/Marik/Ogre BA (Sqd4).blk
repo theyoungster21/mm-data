@@ -90,8 +90,12 @@ BA-SRM2 Ammo:Body:Shots1#
 BAJumpJet
 </slotless_equipment>
 <source>
-TR:3145:FWL
+TR:3145:FWL,TR:3145
 </source>
+
+<published>
+RS:3145
+</published>
 
 <chassis>
 biped

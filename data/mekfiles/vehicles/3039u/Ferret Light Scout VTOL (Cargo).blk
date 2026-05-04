@@ -106,6 +106,10 @@ cargobay:2.5:1:1::-1:0
 TR:3039
 </source>
 
+<published>
+RS:3039u
+</published>
+
 <tonnage>
 5.0
 </tonnage>

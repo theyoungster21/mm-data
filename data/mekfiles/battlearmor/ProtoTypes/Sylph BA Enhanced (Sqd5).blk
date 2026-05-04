@@ -99,6 +99,10 @@ InfantryAssaultRifle:APM
 TR:Proto
 </source>
 
+<published>
+RS:Proto
+</published>
+
 <chassis>
 biped
 </chassis>

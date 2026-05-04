@@ -23,7 +23,7 @@ mul id:7619
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3063
-source:SO:HH
+source:SO:HH,TR:SW
 rules level:4
 role:Sniper
 

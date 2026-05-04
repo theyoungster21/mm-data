@@ -23,7 +23,8 @@ mul id:1115
 Config:Biped
 techbase:Clan
 era:3087
-source:TR:3085
+source:TR:3085,TR:J
+published:RS:J
 rules level:4
 role:Skirmisher
 

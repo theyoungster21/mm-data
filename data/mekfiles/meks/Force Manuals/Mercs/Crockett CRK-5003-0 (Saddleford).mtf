@@ -23,7 +23,7 @@ mul id:8277
 Config:Biped
 techbase:Inner Sphere
 era:3025
-source:FM:M
+source:FM:M,CM:Mercs
 rules level:2
 role:Juggernaut
 

@@ -90,6 +90,10 @@ BAArmoredGlove:RA
 TR:VAr
 </source>
 
+<published>
+RS:VA
+</published>
+
 <chassis>
 biped
 </chassis>

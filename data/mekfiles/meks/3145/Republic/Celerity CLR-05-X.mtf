@@ -23,7 +23,8 @@ mul id:6710
 Config:Quad
 techbase:Inner Sphere
 era:3138
-source:TR:3145:RotS
+source:TR:3145:RotS,TR:3145
+published:RS:3145
 rules level:4
 role:Scout
 

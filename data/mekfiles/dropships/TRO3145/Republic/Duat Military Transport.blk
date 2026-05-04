@@ -222,8 +222,12 @@ ISDroneCarrierControlSystem:SIZE:6.0
 </structural_integrity>
 
 <source>
-TR:3145:RotS
+TR:3145:RotS,TR:3145
 </source>
+
+<published>
+RS:3145
+</published>
 
 <tonnage>
 8500.0

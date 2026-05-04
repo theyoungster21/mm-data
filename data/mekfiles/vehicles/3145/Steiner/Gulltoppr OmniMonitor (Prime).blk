@@ -143,8 +143,12 @@ ISGaussRifle:OMNI
 </Front Turret Equipment>
 
 <source>
-TR:3145:LC
+TR:3145:LC,TR:3150
 </source>
+
+<published>
+RS:3150
+</published>
 
 <tonnage>
 190.0

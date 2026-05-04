@@ -170,6 +170,10 @@ ISMediumPulseLaser
 TR:3067
 </source>
 
+<published>
+RS:3067u
+</published>
+
 <tonnage>
 8000.0
 </tonnage>

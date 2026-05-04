@@ -147,6 +147,10 @@ Clan Ammo LRM-20 (Clan) Artemis-capable:OMNI
 TR:3067
 </source>
 
+<published>
+RS:3067u
+</published>
+
 <tonnage>
 75.0
 </tonnage>

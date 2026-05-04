@@ -186,8 +186,12 @@ ISAMS Ammo:36
 </use>
 
 <source>
-Hexpack 1
+TR:3057r
 </source>
+
+<published>
+RS:HPP1
+</published>
 
 <tonnage>
 3600.0

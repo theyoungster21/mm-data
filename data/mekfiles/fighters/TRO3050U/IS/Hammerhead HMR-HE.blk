@@ -124,8 +124,12 @@ PPC
 
 
 <source>
-TR:3050
+TR:3050,TR:3050U
 </source>
+
+<published>
+RS:3050Uu-C
+</published>
 
 <tonnage>
 75.0

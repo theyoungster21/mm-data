@@ -134,8 +134,12 @@ IS Light Gauss Ammo
 
 
 <source>
-TR:3145:FWL
+TR:3145:FWL,TR:3150
 </source>
+
+<published>
+RS:3150
+</published>
 
 <tonnage>
 55.0

@@ -22,7 +22,8 @@ model:UM-A07
 Config:LAM
 techbase:Inner Sphere
 era:3080
-source:Salvage Box:UrbanMech
+source:SB:UrbanLAM
+published:SB:UrbanLAM
 rules level:3
 role:Skirmisher
 

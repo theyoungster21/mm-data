@@ -211,6 +211,10 @@ ISLargePulseLaser
 TR:3067
 </source>
 
+<published>
+RS:3067u
+</published>
+
 <tonnage>
 16000.0
 </tonnage>

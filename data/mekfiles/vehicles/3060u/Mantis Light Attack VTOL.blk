@@ -109,6 +109,10 @@ BeagleActiveProbe
 TR:3060
 </source>
 
+<published>
+RS:3060u
+</published>
+
 <tonnage>
 15.0
 </tonnage>

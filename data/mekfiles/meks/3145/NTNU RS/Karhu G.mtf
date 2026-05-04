@@ -23,7 +23,8 @@ mul id:6882
 Config:Biped OmniMek
 techbase:Clan
 era:3099
-source:RS:3145-NTNU
+source:TR:DA
+published:RS:3145-NTNU,RS:3145
 rules level:2
 role:Skirmisher
 

@@ -22,7 +22,8 @@ model:HER-7K
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3151
-source:Shrapnel #23
+source:Shrap23
+published:ShrapRS
 rules level:2
 role:Sniper
 

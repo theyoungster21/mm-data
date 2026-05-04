@@ -115,6 +115,10 @@ CLNarcBeacon
 TR:3060
 </source>
 
+<published>
+RS:3060u
+</published>
+
 <tonnage>
 20.0
 </tonnage>

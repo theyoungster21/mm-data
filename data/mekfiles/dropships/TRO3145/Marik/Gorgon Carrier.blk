@@ -161,8 +161,12 @@ ISAMS Ammo:72
 </structural_integrity>
 
 <source>
-TR:3145:FWL
+TR:3145:FWL,TR:3145
 </source>
+
+<published>
+RS:3145
+</published>
 
 <tonnage>
 6800.0

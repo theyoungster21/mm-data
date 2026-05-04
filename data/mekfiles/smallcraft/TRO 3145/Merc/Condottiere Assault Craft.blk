@@ -143,8 +143,12 @@ ISERMediumLaser
 </structural_integrity>
 
 <source>
-TR:3145:Merc
+TR:3145:Merc,TR:3145
 </source>
+
+<published>
+RS:3145
+</published>
 
 <tonnage>
 150.0

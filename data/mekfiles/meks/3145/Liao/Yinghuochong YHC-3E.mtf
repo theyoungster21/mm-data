@@ -23,7 +23,8 @@ mul id:6455
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3137
-source:TR:3145:CC
+source:TR:3145:CC,TR:3150
+published:RS:3150
 rules level:4
 role:Striker
 

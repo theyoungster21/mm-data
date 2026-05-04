@@ -123,6 +123,10 @@ IS MRM 30 Ammo
 TR:3067
 </source>
 
+<published>
+RS:3067u
+</published>
+
 <tonnage>
 55.0
 </tonnage>

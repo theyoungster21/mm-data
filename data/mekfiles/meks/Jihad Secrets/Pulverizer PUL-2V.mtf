@@ -23,7 +23,7 @@ mul id:2590
 Config:Biped
 techbase:Mixed (Clan Chassis)
 era:2823
-source:JSBD
+source:JSBD,TR:GC
 rules level:3
 role:Brawler
 

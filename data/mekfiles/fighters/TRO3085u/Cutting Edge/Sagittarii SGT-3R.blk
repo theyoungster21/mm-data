@@ -123,6 +123,10 @@ IS Ammo MML-5 SRM
 TR:3085
 </source>
 
+<published>
+RS:3085u-CE
+</published>
+
 <tonnage>
 45.0
 </tonnage>

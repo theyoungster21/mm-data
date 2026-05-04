@@ -23,7 +23,8 @@ mul id:6704
 Config:Quad OmniMek
 techbase:Mixed (IS Chassis)
 era:3138
-source:TR:3145:RotS
+source:TR:3145:RotS,TR:3145
+published:RS:3145
 rules level:4
 role:Scout
 

@@ -22,7 +22,7 @@ model:BSK-M3
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3035
-source:Videogame (Apocryphal)
+source:Apocryphal (Videogame)
 rules level:3
 
 quirk:distracting

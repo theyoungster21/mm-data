@@ -23,7 +23,7 @@ mul id:9238
 Config:Biped
 techbase:Inner Sphere
 era:3042
-source:Shrap09
+source:Shrap09,ShrapRS
 rules level:2
 role:Striker
 

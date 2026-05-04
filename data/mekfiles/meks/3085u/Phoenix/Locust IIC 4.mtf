@@ -23,7 +23,8 @@ mul id:1917
 Config:Biped
 techbase:Clan
 era:3064
-source:TR:3085S
+source:TR:3085S,TR:PP
+published:RS:3085u-PP
 rules level:2
 role:Scout
 

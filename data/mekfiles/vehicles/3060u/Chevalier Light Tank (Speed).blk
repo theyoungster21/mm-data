@@ -105,6 +105,10 @@ ISERLargeLaser
 TR:3060
 </source>
 
+<published>
+RS:3060u
+</published>
+
 <tonnage>
 35.0
 </tonnage>

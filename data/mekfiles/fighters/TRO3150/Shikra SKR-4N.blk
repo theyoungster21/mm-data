@@ -123,8 +123,12 @@ IS Gauss Ammo
 </Fuselage Equipment>
 
 <source>
-RS:3150
+TR:3150
 </source>
+
+<published>
+RS:3150
+</published>
 
 <tonnage>
 90.0

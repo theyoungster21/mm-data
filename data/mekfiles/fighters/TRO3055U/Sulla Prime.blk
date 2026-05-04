@@ -125,6 +125,10 @@ CLERSmallLaser:OMNI
 TR:3055U
 </source>
 
+<published>
+RS:3055Uu
+</published>
+
 <tonnage>
 45.0
 </tonnage>

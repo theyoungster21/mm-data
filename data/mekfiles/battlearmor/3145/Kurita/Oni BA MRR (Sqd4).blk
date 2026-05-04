@@ -98,8 +98,12 @@ CLBAMedium Recoilless Rifle:RA
 BAJumpJet
 </slotless_equipment>
 <source>
-TR:3145:DC
+TR:3145:DC,TR:3145
 </source>
+
+<published>
+RS:3145
+</published>
 
 <chassis>
 biped

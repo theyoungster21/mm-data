@@ -128,6 +128,10 @@ CLERSmallLaser
 RG32
 </source>
 
+<published>
+RG32,RSFP:Battlefield
+</published>
+
 <tonnage>
 50.0
 </tonnage>

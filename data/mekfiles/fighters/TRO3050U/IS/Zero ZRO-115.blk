@@ -126,8 +126,12 @@ IS Streak SRM 2 Ammo
 
 
 <source>
-TR:3050
+TR:3050,TR:3050U
 </source>
+
+<published>
+RS:3050Uu-C
+</published>
 
 <tonnage>
 35.0

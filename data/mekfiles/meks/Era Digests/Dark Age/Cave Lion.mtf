@@ -23,7 +23,8 @@ mul id:6954
 Config:Biped
 techbase:Clan
 era:3122
-source:ED:DA
+source:ED:DA,TR:DA
+published:RS:DA
 rules level:3
 role:Skirmisher
 

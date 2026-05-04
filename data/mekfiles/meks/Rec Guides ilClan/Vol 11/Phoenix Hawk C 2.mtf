@@ -23,7 +23,8 @@ mul id:7753
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3140
-source:RG11
+source:RG11,RGv1
+published:RG11,RGv1
 rules level:2
 role:Striker
 

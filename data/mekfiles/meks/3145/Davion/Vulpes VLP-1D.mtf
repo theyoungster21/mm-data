@@ -23,7 +23,8 @@ mul id:6346
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3133
-source:TR:3145:FS
+source:TR:3145:FS,TR:DA
+published:RS:DA
 rules level:4
 role:Skirmisher
 

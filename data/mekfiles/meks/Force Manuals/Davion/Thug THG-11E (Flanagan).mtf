@@ -22,7 +22,7 @@ model:THG-11E (Flanagan)
 Config:Biped
 techbase:Inner Sphere
 era:3055
-source:Force Manual: Davion
+source:FM:Davion
 rules level:2
 role:Brawler
 

@@ -22,7 +22,8 @@ model:S-UM-1XLA
 Config:LAM
 techbase:Mixed (IS Chassis)
 era:3080
-source:Salvage Box:UrbanMech
+source:SB:UrbanLAM
+published:SB:UrbanLAM
 rules level:3
 
 

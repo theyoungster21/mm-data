@@ -143,6 +143,10 @@ IS Ammo HVAC/10
 TR:Proto
 </source>
 
+<published>
+RS:Proto
+</published>
+
 <tonnage>
 85.0
 </tonnage>

@@ -101,8 +101,12 @@ IS BA Mimetic:Body
 <Trooper 4 Equipment>
 </Trooper 4 Equipment>
 <source>
-TR:3145:RotS
+TR:3145:RotS,TR:3145
 </source>
+
+<published>
+RS:3145
+</published>
 
 <chassis>
 biped

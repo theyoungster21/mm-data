@@ -98,6 +98,10 @@ BA-Compact Narc Ammo:LA:Shots3#
 TR:3075
 </source>
 
+<published>
+RS:3075u-CE
+</published>
+
 <chassis>
 biped
 </chassis>

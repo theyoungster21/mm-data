@@ -56,7 +56,7 @@ Generic Infantry Kit
 </Field Guns Equipment>
 
 <source>
-TW
+TW,TM
 </source>
 
 <squad_size>

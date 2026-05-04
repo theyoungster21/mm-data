@@ -139,8 +139,12 @@ IS Ammo SRM-6
 
 
 <source>
-RS:UF
+
 </source>
+
+<published>
+RS:UF
+</published>
 
 <tonnage>
 90.0

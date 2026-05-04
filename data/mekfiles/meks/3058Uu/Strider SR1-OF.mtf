@@ -23,7 +23,8 @@ mul id:3090
 Config:Biped OmniMek
 techbase:Inner Sphere
 era:3060
-source:TR:3058U
+source:TR:3058U,TR:CI
+published:RS:CI
 rules level:2
 role:Striker
 

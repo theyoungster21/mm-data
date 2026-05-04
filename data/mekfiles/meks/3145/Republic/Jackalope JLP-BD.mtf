@@ -23,7 +23,8 @@ mul id:6672
 Config:Biped
 techbase:Clan
 era:3134
-source:TR:3145:RotS
+source:TR:3145:RotS,TR:DA
+published:RS:DA,RSFP:SLDF3
 rules level:2
 role:Striker
 

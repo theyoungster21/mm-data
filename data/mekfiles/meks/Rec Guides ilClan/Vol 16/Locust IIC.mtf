@@ -23,7 +23,8 @@ mul id:1914
 Config:Biped
 techbase:Clan
 era:2832
-source:RG16
+source:RG16,RGv1
+published:RG16,RGv1,RSFP:MERCS-CLAN
 rules level:2
 role:Striker
 

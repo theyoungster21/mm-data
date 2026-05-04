@@ -94,8 +94,12 @@ ISBAMineDispenser:LA
 BAJumpJet
 </slotless_equipment>
 <source>
-TR:3145:LC
+TR:3145:LC,TR:3150
 </source>
+
+<published>
+RS:3150
+</published>
 
 <chassis>
 biped

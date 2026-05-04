@@ -23,7 +23,8 @@ mul id:7437
 Config:Biped
 techbase:Mixed (Clan Chassis)
 era:3144
-source:RG01
+source:RG01,RGv1
+published:RSFP:KH,RG01,RGv1
 rules level:2
 role:Sniper
 

@@ -23,7 +23,8 @@ mul id:2710
 Config:Biped
 techbase:Clan
 era:2845
-source:TR:3085
+source:TR:3085,RGv1,RG23
+published:RGv1,RG23,RSFP:MERCS-CLAN
 rules level:2
 role:Sniper
 

@@ -118,8 +118,12 @@ Machine Gun
 
 
 <source>
-TR:3025
+TR:3025,TR:3039
 </source>
+
+<published>
+RS:3039u
+</published>
 
 <tonnage>
 95.0

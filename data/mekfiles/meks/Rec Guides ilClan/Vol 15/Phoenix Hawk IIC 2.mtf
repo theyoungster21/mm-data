@@ -23,7 +23,8 @@ mul id:2512
 Config:Biped
 techbase:Clan
 era:2852
-source:RG15
+source:RG15,RGv1
+published:RG15,RGv1
 rules level:2
 role:Missile Boat
 

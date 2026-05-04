@@ -23,7 +23,7 @@ mul id:1747
 Config:Biped OmniMek
 techbase:Mixed (Clan Chassis)
 era:3085
-source:BD:LL
+source:BD:LL,TR:DA
 rules level:4
 role:Skirmisher
 

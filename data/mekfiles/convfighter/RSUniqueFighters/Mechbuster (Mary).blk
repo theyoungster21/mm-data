@@ -117,8 +117,12 @@ IS Light Gauss Ammo
 </Fuselage Equipment>
 
 <source>
-RS:UF
+
 </source>
+
+<published>
+RS:UF
+</published>
 
 <tonnage>
 50.0

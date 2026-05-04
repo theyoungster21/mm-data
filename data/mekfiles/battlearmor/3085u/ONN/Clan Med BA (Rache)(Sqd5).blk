@@ -98,6 +98,10 @@ BA-SRM3 Ammo:Shots1#
 TR:3085
 </source>
 
+<published>
+RS:3085u-ONN
+</published>
+
 <chassis>
 biped
 </chassis>

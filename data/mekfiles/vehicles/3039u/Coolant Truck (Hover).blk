@@ -110,6 +110,10 @@ Flamer (Vehicle)
 TR:3039
 </source>
 
+<published>
+RS:3039u,RSFP:SLDF2
+</published>
+
 <tonnage>
 30.0
 </tonnage>

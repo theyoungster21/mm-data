@@ -120,6 +120,10 @@ ISAntiMissileSystem
 TR:3085
 </source>
 
+<published>
+RS:3085u-ONN
+</published>
+
 <tonnage>
 90.0
 </tonnage>

@@ -151,6 +151,10 @@ MASH Equipment:OMNI:SIZE:10.0
 TR:3085
 </source>
 
+<published>
+RS:3085u-CE
+</published>
+
 <tonnage>
 200.0
 </tonnage>

@@ -128,7 +128,7 @@ ISLBXAC2
 </Turret Equipment>
 
 <source>
-XTR:RotS 1
+XTR:RotS 1,TR:3150
 </source>
 
 <tonnage>

@@ -123,8 +123,12 @@ ISGaussRifle
 
 
 <source>
-TR:3145:CC
+TR:3145:CC,TR:3145
 </source>
+
+<published>
+RS:3145
+</published>
 
 <tonnage>
 100.0

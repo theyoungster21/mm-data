@@ -22,7 +22,7 @@ model:BSK-MAZ
 Config:Biped
 techbase:Mixed (Clan Chassis)
 era:3012
-source:Videogame (Apocryphal)
+source:Apocryphal (Videogame)
 rules level:4
 
 quirk:distracting

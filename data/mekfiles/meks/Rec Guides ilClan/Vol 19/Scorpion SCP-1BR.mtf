@@ -23,7 +23,8 @@ mul id:8314
 Config:Quad
 techbase:Inner Sphere
 era:3088
-source:RG19
+source:RG19,RGv1
+published:RG19,RGv1
 rules level:2
 role:Skirmisher
 

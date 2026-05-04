@@ -24,7 +24,7 @@ mul id:7632
 Config:Biped OmniMek
 techbase:Mixed (Clan Chassis)
 era:3138
-source:SO:UF
+source:SO:UF,TR:CI
 rules level:4
 role:Skirmisher
 

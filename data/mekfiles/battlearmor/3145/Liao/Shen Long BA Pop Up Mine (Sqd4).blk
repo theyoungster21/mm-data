@@ -92,8 +92,12 @@ BAMineLauncher:TU
 BA-Mine Launcher Ammo:Shots4#
 </slotless_equipment>
 <source>
-TR:3145:CC
+TR:3145:CC,TR:3145
 </source>
+
+<published>
+RS:3145
+</published>
 
 <chassis>
 quad

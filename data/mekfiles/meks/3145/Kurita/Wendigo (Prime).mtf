@@ -23,7 +23,8 @@ mul id:6402
 Config:Biped OmniMek
 techbase:Clan
 era:3135
-source:TR:3145:DC
+source:TR:3145:DC,TR:DA
+published:RS:DA,RSFP:SLDF3
 rules level:3
 role:Skirmisher
 

@@ -121,8 +121,12 @@ SRM 6:OMNI
 </Turret Equipment>
 
 <source>
-TR:3145:FWL
+TR:3145:FWL,TR:3145
 </source>
+
+<published>
+RS:3145
+</published>
 
 <tonnage>
 45.0

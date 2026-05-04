@@ -23,7 +23,8 @@ mul id:853
 Config:Biped OmniMek
 techbase:Clan
 era:3085
-source:TR:3085S
+source:TR:3085S,TR:J
+published:RS:J
 rules level:2
 role:Brawler
 

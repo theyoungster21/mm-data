@@ -24,7 +24,8 @@ mul id:7709
 Config:Biped
 techbase:Clan
 era:2850
-source:RG09
+source:RG09,RGv1
+published:RG09,RGv1
 rules level:2
 role:Skirmisher
 

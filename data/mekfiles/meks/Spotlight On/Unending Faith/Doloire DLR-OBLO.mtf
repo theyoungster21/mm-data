@@ -23,7 +23,7 @@ mul id:7636
 Config:Biped OmniMek
 techbase:Mixed (IS Chassis)
 era:3140
-source:SO:UF
+source:SO:UF,TR:DA
 rules level:4
 role:Brawler
 

@@ -105,8 +105,12 @@ CLUltraAC2
 </Rear Equipment>
 
 <source>
-TR:3145:C
+TR:3145:C,TR:3150
 </source>
+
+<published>
+RS:3150
+</published>
 
 <tonnage>
 35.0

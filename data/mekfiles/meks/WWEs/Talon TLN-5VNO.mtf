@@ -22,7 +22,7 @@ model:TLN-5VNO
 Config:Biped
 techbase:Inner Sphere
 era:3049
-source:WWE Scorched Earth
+source:WWE:ScorchedEarth
 rules level:2
 
 quirk:no_arms

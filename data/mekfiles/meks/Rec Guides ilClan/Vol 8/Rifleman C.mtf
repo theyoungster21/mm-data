@@ -23,7 +23,8 @@ mul id:2693
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:2826
-source:RG08
+source:RG08,RGv1
+published:RG08,RGv1
 rules level:4
 role:Sniper
 

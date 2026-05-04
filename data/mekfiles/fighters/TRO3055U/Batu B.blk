@@ -138,6 +138,10 @@ CLERMediumLaser:OMNI
 TR:3055U
 </source>
 
+<published>
+RS:3055Uu
+</published>
+
 <tonnage>
 40.0
 </tonnage>

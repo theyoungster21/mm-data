@@ -110,8 +110,12 @@ ISMML5
 
 
 <source>
-RS:3145-NTNU
+TR:3145
 </source>
+
+<published>
+RS:3145-NTNU,RS:3145
+</published>
 
 <tonnage>
 25.0

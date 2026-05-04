@@ -121,6 +121,10 @@ ISUltraAC20
 RG25
 </source>
 
+<published>
+RG25,RSFP:Battlefield
+</published>
+
 <tonnage>
 80.0
 </tonnage>

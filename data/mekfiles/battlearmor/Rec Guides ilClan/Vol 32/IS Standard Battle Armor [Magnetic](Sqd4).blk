@@ -95,6 +95,10 @@ BAJumpJet
 RG32
 </source>
 
+<published>
+RG32,RSFP:MERCS
+</published>
+
 <chassis>
 biped
 </chassis>

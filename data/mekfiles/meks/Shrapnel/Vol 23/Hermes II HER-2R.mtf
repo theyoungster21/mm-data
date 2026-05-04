@@ -22,7 +22,8 @@ model:HER-2R
 Config:Biped
 techbase:Inner Sphere
 era:2799
-source:Shrapnel #23
+source:Shrap23
+published:ShrapRS
 rules level:2
 role:Sniper
 

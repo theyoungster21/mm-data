@@ -23,7 +23,8 @@ mul id:8127
 Config:Biped
 techbase:Clan
 era:2832
-source:RG13
+source:RG13,RGv1
+published:RG13,RGv1
 rules level:2
 role:Scout
 

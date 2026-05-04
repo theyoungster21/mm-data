@@ -104,7 +104,7 @@ IS Ammo SRTorpedo-2
 </slotless_equipment>
 
 <source>
-HTP:Glengarry
+HTP:Glengarry,HTP:Galtor
 </source>
 
 <tonnage>

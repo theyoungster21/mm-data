@@ -22,7 +22,7 @@ model:WVR-7Kh
 Config:Biped
 techbase:Inner Sphere
 era:3050
-source:Force Manual Kurita
+source:FM:Kurita
 rules level:2
 role:Skirmisher
 

@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3134
 source:RG24
+published:RSFP:WD,RG24
 rules level:2
 role:Sniper
 

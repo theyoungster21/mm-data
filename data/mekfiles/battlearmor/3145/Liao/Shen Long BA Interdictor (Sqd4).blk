@@ -87,8 +87,12 @@ IS BA ECM:TU
 <Trooper 4 Equipment>
 </Trooper 4 Equipment>
 <source>
-TR:3145:CC
+TR:3145:CC,TR:3145
 </source>
+
+<published>
+RS:3145
+</published>
 
 <chassis>
 quad

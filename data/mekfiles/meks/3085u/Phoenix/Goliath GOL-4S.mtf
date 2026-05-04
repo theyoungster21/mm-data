@@ -23,7 +23,8 @@ mul id:1234
 Config:Quad
 techbase:Inner Sphere
 era:3067
-source:TR:3085S
+source:TR:3085S,TR:J
+published:RS:J
 rules level:2
 role:Brawler
 

@@ -130,6 +130,10 @@ ISLargePulseLaser:OMNI
 TR:3075
 </source>
 
+<published>
+RS:3075u-CE
+</published>
+
 <tonnage>
 65.0
 </tonnage>

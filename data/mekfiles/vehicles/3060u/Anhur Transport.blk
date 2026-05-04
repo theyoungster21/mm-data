@@ -110,8 +110,12 @@ CLMediumPulseLaser
 </Rotor Equipment>
 
 <source>
-RS:3067u
+TR:3060
 </source>
+
+<published>
+RS:3067u,RS:3060u
+</published>
 
 <tonnage>
 30.0

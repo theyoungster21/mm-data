@@ -122,6 +122,10 @@ IS Ammo RL-10
 TR:3075
 </source>
 
+<published>
+RS:3075u-AW
+</published>
+
 <tonnage>
 50.0
 </tonnage>

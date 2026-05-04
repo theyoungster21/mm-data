@@ -23,7 +23,8 @@ mul id:8329
 Config:Biped
 techbase:Clan
 era:3141
-source:RG20
+source:RG20,RGv1
+published:RG20,RGv1,RSFP:MERCS-CLAN
 rules level:2
 role:Striker
 

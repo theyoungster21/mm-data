@@ -110,6 +110,18 @@ CLAPGaussRifle
 CLAPGaussRifle
 </Turret Equipment>
 
+<source>
+TR:3060
+</source>
+
+<published>
+RS:3060u
+</published>
+
+<tonnage>
+35.0
+</tonnage>
+
 <capabilities>
 <p>The 'Masada' replaces the standard fusion engine with an XL unit, pushing the vehicle's flanking speed to 183 kph while freeing weight for a significantly heavier weapons suite. The five-ton infantry compartment and three tons of Compound Alpha ferro-fibrous armor are retained from the standard Svantovit, preserving the variant's core Elemental transport function. The rear hatch deployment limitation and the associated halt-before-deployment operating procedure remain unchanged.</p><p>The turret armament is substantially upgraded. A single ATM-9 launcher fed by three tons of ammunition replaces the Streak SRM launchers, giving the 'Masada' multi-range engagement capability at the cost of the standard model's point-defense focus. A pair of anti-personnel Gauss rifles supplementing the ATM system provide effective suppression against infantry targets, though their effectiveness against armored opponents is limited. The combination makes the 'Masada' a more capable fire support vehicle than the standard Svantovit, but the lighter anti-infantry weapons and heavier reliance on the ATM system require skilled fire control to employ effectively. As with all ATM-equipped vehicles, ammunition selection determines the engagement envelope, and logistics support for multiple ATM munition types is an ongoing operational concern.</p>
 </capabilities>

@@ -126,6 +126,10 @@ CLAPGaussRifle
 TR:3060
 </source>
 
+<published>
+RS:3060u
+</published>
+
 <tonnage>
 100.0
 </tonnage>

@@ -23,7 +23,8 @@ mul id:5694
 Config:Biped
 techbase:Clan
 era:3071
-source:RS:3067u
+source:TR:3067
+published:RS:3067u
 rules level:2
 role:Brawler
 

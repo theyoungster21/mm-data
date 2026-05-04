@@ -23,7 +23,8 @@ mul id:2305
 Config:Biped OmniMek
 techbase:Clan
 era:3072
-source:TR:3060
+source:TR:3060,RG23
+published:RG23
 rules level:2
 role:Missile Boat
 

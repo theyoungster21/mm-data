@@ -114,8 +114,12 @@ Heavy PPC:OMNI
 </Turret Equipment>
 
 <source>
-TR:3145:FS
+TR:3145:FS,TR:3150
 </source>
+
+<published>
+RS:3150
+</published>
 
 <tonnage>
 50.0

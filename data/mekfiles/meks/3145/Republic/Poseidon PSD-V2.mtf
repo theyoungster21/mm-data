@@ -23,7 +23,8 @@ mul id:6684
 Config:Tripod
 techbase:Mixed (IS Chassis)
 era:3136
-source:TR:3145:RotS
+source:TR:3145:RotS,TR:DA
+published:RS:DA
 rules level:3
 role:Juggernaut
 

@@ -141,8 +141,12 @@ ISERMediumLaser
 </structural_integrity>
 
 <source>
-TR:3145:DC
+TR:3145:DC,TR:3150
 </source>
+
+<published>
+RS:3145
+</published>
 
 <tonnage>
 170.0

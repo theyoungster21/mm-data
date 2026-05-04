@@ -122,6 +122,18 @@ CLAPGaussRifle:OMNI
 CLAPGaussRifle:OMNI
 </Turret Equipment>
 
+<source>
+TR:3060
+</source>
+
+<published>
+RS:3060u
+</published>
+
+<tonnage>
+50.0
+</tonnage>
+
 <slotless_equipment>
 CLCASE
 CLCASE

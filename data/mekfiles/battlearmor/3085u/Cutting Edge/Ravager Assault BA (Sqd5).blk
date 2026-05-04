@@ -91,8 +91,12 @@ BARL1 Ammo:Shots1#
 BARL1 Ammo:Shots1#
 </slotless_equipment>
 <source>
-TR:3085
+TR:3085,TR:3085S
 </source>
+
+<published>
+RS:3085u-CE
+</published>
 
 <chassis>
 biped

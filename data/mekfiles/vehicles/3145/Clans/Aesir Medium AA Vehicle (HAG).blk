@@ -114,6 +114,18 @@ Hyper-Assault Gauss Rifle/40 Ammo
 CLHAG40
 </Turret Equipment>
 
+<source>
+TR:3145:C,TR:3145
+</source>
+
+<published>
+RS:3145
+</published>
+
+<tonnage>
+55.0
+</tonnage>
+
 <capabilities>
 <p>Too slow to participate in offensive operations or respond to rapidly developing threats, the Aesir instead excels as a static or semi-mobile air defense platform. A quartet of turret-mounted Type Sierra LB 2-X Autocannons provides long-range flak coverage capable of saturating a wide portion of airspace, with cluster munitions offering particular effectiveness against fast-moving aerospace targets. Two tons of ammunition supply adequate endurance for extended engagements without requiring frequent resupply.</p><p>Protection is substantial for a vehicle of its weight class, with nine and a half tons of Forging OTR20d ferro-fibrous armor supplemented by CASE to contain ammunition explosions and an Armored Motive System to protect the wheeled drive train from crippling mobility kills. The Omni 145 fusion engine provides only modest speed at fifty-four kilometers per hour, reinforcing the Aesir's role as a positional defender rather than a mobile combatant. The TRTTS Mark V AirTracker targeting and tracking system, though aging by current standards, remains effective at acquiring and tracking airborne contacts ranging from VTOLs to DropShips. A Build 1685 Tacticom communications suite rounds out the electronics package.</p>
 </capabilities>

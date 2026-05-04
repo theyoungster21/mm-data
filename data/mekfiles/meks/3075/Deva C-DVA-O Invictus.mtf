@@ -23,7 +23,8 @@ mul id:885
 Config:Biped OmniMek
 techbase:Inner Sphere
 era:3069
-source:TR:3075
+source:TR:3075,TR:J
+published:RS:J
 rules level:2
 role:Sniper
 

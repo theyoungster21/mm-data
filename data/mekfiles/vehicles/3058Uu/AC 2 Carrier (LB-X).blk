@@ -105,8 +105,12 @@ ISLBXAC2
 </Rear Equipment>
 
 <source>
-TR:3058U
+TR:3058U,TR:3039
 </source>
+
+<published>
+RS:3058Uu-I
+</published>
 
 <tonnage>
 60.0

@@ -22,7 +22,8 @@ model:FLC-12X
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3120
-source:TR:3085
+source:TR:3085,Shrap24
+published:ShrapRS
 rules level:4
 role:Skirmisher
 

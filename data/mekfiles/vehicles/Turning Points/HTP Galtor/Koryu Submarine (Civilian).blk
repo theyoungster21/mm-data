@@ -99,7 +99,7 @@ cargobay:5.5:1:1::-1:0
 </Rear Equipment>
 
 <source>
-HTP:Glengarry
+HTP:Glengarry,HTP:Galtor
 </source>
 
 <tonnage>

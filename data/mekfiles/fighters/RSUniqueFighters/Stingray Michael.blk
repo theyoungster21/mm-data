@@ -130,8 +130,12 @@ Medium Laser
 
 
 <source>
-RS:UF
+
 </source>
+
+<published>
+RS:UF
+</published>
 
 <tonnage>
 60.0

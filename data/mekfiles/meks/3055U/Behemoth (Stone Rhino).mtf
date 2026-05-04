@@ -24,7 +24,8 @@ mul id:318
 Config:Biped
 techbase:Clan
 era:2847
-source:TR:3055U
+source:TR:3055U,RGv1
+published:RSFP:Wave 2,RGv1
 rules level:2
 role:Sniper
 

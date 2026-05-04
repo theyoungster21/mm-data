@@ -97,8 +97,12 @@ BAJumpJet
 BA-SRM1 Ammo:Shots1#
 </slotless_equipment>
 <source>
-RS:3145-NTNU
+
 </source>
+
+<published>
+RS:3145-NTNU,RS:3145
+</published>
 
 <chassis>
 biped

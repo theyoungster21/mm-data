@@ -88,6 +88,10 @@ Mission Equipment Storage:Body:SIZE:5.0
 TR:3075
 </source>
 
+<published>
+RS:3075u-CE
+</published>
+
 <chassis>
 quad
 </chassis>

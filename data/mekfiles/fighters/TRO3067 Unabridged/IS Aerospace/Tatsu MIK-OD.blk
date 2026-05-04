@@ -140,6 +140,10 @@ IS Ammo MML-9 SRM:OMNI
 TR:3067
 </source>
 
+<published>
+RS:3067u
+</published>
+
 <tonnage>
 70.0
 </tonnage>

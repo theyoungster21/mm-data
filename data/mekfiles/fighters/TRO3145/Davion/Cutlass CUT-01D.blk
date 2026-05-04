@@ -137,8 +137,12 @@ IS Gauss Ammo
 
 
 <source>
-TR:3145:FS
+TR:3145:FS,TR:3145
 </source>
+
+<published>
+RS:3145
+</published>
 
 <tonnage>
 70.0

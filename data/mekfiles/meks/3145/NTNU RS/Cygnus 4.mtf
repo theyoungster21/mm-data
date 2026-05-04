@@ -23,7 +23,8 @@ mul id:6843
 Config:Biped
 techbase:Clan
 era:3090
-source:RS:3145-NTNU
+source:TR:3145
+published:RS:3145-NTNU,RS:3145
 rules level:2
 role:Juggernaut
 

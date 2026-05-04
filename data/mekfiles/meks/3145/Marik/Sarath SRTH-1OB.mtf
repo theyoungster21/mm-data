@@ -23,7 +23,8 @@ mul id:6508
 Config:Quad OmniMek
 techbase:Mixed (IS Chassis)
 era:3122
-source:TR:3145:FWL
+source:TR:3145:FWL,TR:DA
+published:RS:DA
 rules level:4
 role:Skirmisher
 

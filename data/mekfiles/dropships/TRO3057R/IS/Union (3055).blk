@@ -176,6 +176,10 @@ Medium Laser
 TR:3057r
 </source>
 
+<published>
+RS:HPP1,RSFP:Battlefield
+</published>
+
 <tonnage>
 3600.0
 </tonnage>

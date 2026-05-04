@@ -24,6 +24,7 @@ Config:Biped
 techbase:Mixed (IS Chassis)
 era:3078
 source:Shrap12
+published:ShrapRS
 rules level:2
 role:Skirmisher
 

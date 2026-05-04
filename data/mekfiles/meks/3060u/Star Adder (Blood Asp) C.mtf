@@ -25,6 +25,7 @@ Config:Biped OmniMek
 techbase:Clan
 era:3060
 source:TR:3060
+published:RS:3060u,RSFP:BlackRemnant
 rules level:2
 role:Brawler
 

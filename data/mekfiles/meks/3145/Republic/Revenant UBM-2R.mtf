@@ -23,7 +23,8 @@ mul id:6673
 Config:Quad
 techbase:Inner Sphere
 era:3139
-source:TR:3145:RotS
+source:TR:3145:RotS,TR:3145
+published:RS:3145
 rules level:3
 role:Striker
 

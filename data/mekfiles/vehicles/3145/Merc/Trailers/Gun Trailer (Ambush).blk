@@ -111,8 +111,12 @@ IS Ammo RL-15
 </slotless_equipment>
 
 <source>
-TR:3145:Merc
+TR:3145:Merc,TR:3150
 </source>
+
+<published>
+RS:3150
+</published>
 
 <tonnage>
 10.0

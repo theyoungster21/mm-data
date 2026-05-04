@@ -136,6 +136,10 @@ CLERMicroLaser
 TR:3060
 </source>
 
+<published>
+RS:3060u
+</published>
+
 <tonnage>
 5.0
 </tonnage>

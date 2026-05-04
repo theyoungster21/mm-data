@@ -138,6 +138,10 @@ IS Ammo LRM-15
 TR:3085
 </source>
 
+<published>
+RS:3085u-CE
+</published>
+
 <tonnage>
 95.0
 </tonnage>

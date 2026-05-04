@@ -132,6 +132,10 @@ IS Machine Gun Ammo - Half
 TR:3039
 </source>
 
+<published>
+RS:3039u
+</published>
+
 <tonnage>
 45.0
 </tonnage>

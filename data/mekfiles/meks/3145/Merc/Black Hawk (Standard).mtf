@@ -23,7 +23,8 @@ mul id:6554
 Config:Biped
 techbase:Clan
 era:3073
-source:TR:3145:Merc
+source:TR:3145:Merc,TR:DA
+published:RS:DA
 rules level:2
 role:Skirmisher
 

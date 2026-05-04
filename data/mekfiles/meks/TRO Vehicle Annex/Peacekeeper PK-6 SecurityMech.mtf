@@ -23,7 +23,8 @@ mul id:7159
 Config:Biped
 techbase:Inner Sphere
 era:2522
-source:RS:VA
+source:TR:VAr
+published:RS:VA
 rules level:2
 role:Brawler
 

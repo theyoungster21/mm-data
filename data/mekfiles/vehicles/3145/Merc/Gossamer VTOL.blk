@@ -106,8 +106,12 @@ CLMediumPulseLaser
 </Rotor Equipment>
 
 <source>
-TR:3145:Merc
+TR:3145:Merc,TR:3145
 </source>
+
+<published>
+RS:3145
+</published>
 
 <tonnage>
 25.0

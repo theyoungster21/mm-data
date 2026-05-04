@@ -130,8 +130,12 @@ IS Ammo MML-7 SRM:OMNI
 </Fuselage Equipment>
 
 <source>
-RS:3145-NTNU
+
 </source>
+
+<published>
+RS:3145-NTNU,RS:3145
+</published>
 
 <tonnage>
 70.0

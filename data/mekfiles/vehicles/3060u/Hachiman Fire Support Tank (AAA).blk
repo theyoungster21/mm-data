@@ -106,6 +106,18 @@ CLERMediumLaser
 CLERMediumLaser
 </Turret Equipment>
 
+<source>
+TR:3060
+</source>
+
+<published>
+RS:3060u
+</published>
+
+<tonnage>
+50.0
+</tonnage>
+
 <capabilities>
 <p>The Hachiman is built around a pair of turret-mounted Type XX "Great Bow" LRM-20 launchers, each linked to an Artemis IV Fire Control System. The Artemis integration tightens missile grouping noticeably, increasing damage consistency at range. Four tons of LRM ammunition supports sustained fire through a typical Trial or skirmish, but crews engaged in prolonged conventional warfare can exhaust the magazines quickly, leaving the vehicle reliant on its secondary weapons.</p><p>When opponents close the distance, the Hachiman responds with a pair of Series 2d Extended Range Medium Lasers and a hull-mounted Pattern J6 Streak SRM-4. The Streak launcher fires only on a confirmed lock, preventing wasted ammunition, and provides a meaningful short-range punch for a vehicle of this class. The combination of long-range precision and short-range backup gives the Hachiman reasonable flexibility across engagement ranges, though it is clearly most effective at distance.</p><p>Seven tons of Compound G5 ferro-fibrous armor provides solid protection for a 50-ton tracked vehicle, and the Hachiman's compartmentalized crew layout maximizes crew survival in the event of a penetrating hit. The trade-off is reduced inter-crew communication. The compartmentalization impairs coordination between the driver, gunners, and commander, degrading fighting effectiveness when compared to an open-crew design. Scientist-caste studies have confirmed this reduces combat efficiency, though the same studies acknowledge the Hachiman achieves the highest crew survival rate of any Clan armored vehicle. At a top speed of 65 km/h, the design is reasonably mobile for a missile-focused platform, allowing it to reposition between firing positions more readily than heavier fire-support vehicles.</p>
 </capabilities>

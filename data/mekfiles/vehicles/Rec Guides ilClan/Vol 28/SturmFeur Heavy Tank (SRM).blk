@@ -120,8 +120,12 @@ Machine Gun
 
 
 <source>
-RG28
+RG28,TR:3039
 </source>
+
+<published>
+RS:3039u,RG28,RSFP:Battlefield
+</published>
 
 <tonnage>
 85.0

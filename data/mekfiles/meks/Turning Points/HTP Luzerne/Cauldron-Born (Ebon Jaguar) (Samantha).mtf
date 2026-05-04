@@ -24,7 +24,7 @@ mul id:5862
 Config:Biped OmniMek
 techbase:Clan
 era:3059
-source:HTP:Luzerne
+source:HTP:Luzerne,TR:CI
 rules level:2
 role:Skirmisher
 

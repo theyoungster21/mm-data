@@ -23,7 +23,8 @@ mul id:8426
 Config:Biped OmniMek
 techbase:Clan
 era:3146
-source:RG23
+source:RG23,RGv1
+published:RG23,RGv1
 rules level:2
 role:Brawler
 

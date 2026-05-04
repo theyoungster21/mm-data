@@ -119,6 +119,10 @@ ISNarcBeacon
 TR:3058U
 </source>
 
+<published>
+RS:3058Uu-I,RSFP:Battlefield
+</published>
+
 <tonnage>
 60.0
 </tonnage>

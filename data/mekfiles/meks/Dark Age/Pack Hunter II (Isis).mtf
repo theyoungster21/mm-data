@@ -23,7 +23,7 @@ mul id:5540
 Config:Biped
 techbase:Clan
 era:3136
-source:DTP:Vega
+source:DTP:Vega,TR:3085
 rules level:2
 role:Striker
 

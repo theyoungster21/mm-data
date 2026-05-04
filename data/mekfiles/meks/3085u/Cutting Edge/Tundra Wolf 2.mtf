@@ -23,7 +23,8 @@ mul id:3316
 Config:Biped
 techbase:Clan
 era:3076
-source:TR:3085
+source:TR:3085,TR:DA
+published:RS:DA
 rules level:2
 role:Brawler
 

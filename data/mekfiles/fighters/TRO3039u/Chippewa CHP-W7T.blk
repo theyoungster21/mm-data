@@ -146,6 +146,10 @@ IS Ammo LRM-15 Artemis-capable
 TR:3039
 </source>
 
+<published>
+RS:3039u
+</published>
+
 <tonnage>
 90.0
 </tonnage>

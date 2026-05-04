@@ -114,8 +114,12 @@ Medium Laser
 
 
 <source>
-His:OK
+His:OK,TR:3025
 </source>
+
+<published>
+RS:3058Uu-I
+</published>
 
 <tonnage>
 30.0

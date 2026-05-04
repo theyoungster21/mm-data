@@ -121,6 +121,10 @@ IS Ammo SRM-2
 RG28
 </source>
 
+<published>
+RG28,RSFP:Battlefield
+</published>
+
 <tonnage>
 21.0
 </tonnage>

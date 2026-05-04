@@ -23,7 +23,8 @@ mul id:7498
 Config:Biped
 techbase:Clan
 era:3150
-source:RG04
+source:RG04,RGv1
+published:RG04,RGv1
 rules level:2
 role:Brawler
 

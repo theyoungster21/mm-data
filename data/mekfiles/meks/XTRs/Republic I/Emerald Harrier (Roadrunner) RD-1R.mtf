@@ -24,7 +24,7 @@ mul id:7292
 Config:Biped
 techbase:Clan
 era:3112
-source:XTR:RotS 1
+source:XTR:RotS 1,TR:3150
 rules level:3
 role:Scout
 

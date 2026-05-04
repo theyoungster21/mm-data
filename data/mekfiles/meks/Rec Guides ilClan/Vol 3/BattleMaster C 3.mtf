@@ -23,7 +23,8 @@ mul id:7477
 Config:Biped
 techbase:Clan
 era:3145
-source:RG03
+source:RG03,RGv1
+published:RG03,RGv1
 rules level:2
 role:Juggernaut
 
