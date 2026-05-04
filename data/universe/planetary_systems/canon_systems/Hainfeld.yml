@@ -272,7 +272,7 @@ planet:
           source: SUCS
           version: 2026.03.02
           value:
-            - FR
+            - FRR
       - date: '3050-01-01'
         population: 460916742.0
       - date: '3051-12-09'
@@ -285,7 +285,7 @@ planet:
           source: SUCS
           version: 2026.03.02
           value:
-            - FR
+            - FRR
       - date: '3052-12-31'
         faction:
           source: SUCS

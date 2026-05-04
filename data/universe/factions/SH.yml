@@ -17,6 +17,8 @@
 
 key: SH
 name: Sirian Holds
+sucsCodes:
+  - SH
 yearsActive:
   - start: 3057
     end: 3058

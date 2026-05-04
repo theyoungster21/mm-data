@@ -48,6 +48,10 @@ IS Level 2
 None
 </role>
 
+<quirks>
+easy_maintain
+</quirks>
+
 <motion_type>
 Tracked
 </motion_type>

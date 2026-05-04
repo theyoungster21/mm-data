@@ -48,6 +48,10 @@ IS Level 2
 None
 </role>
 
+<quirks>
+difficult_maintain
+</quirks>
+
 <motion_type>
 Aerodyne
 </motion_type>

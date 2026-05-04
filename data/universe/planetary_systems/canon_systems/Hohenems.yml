@@ -258,7 +258,7 @@ planet:
           source: SUCS
           version: 2026.03.02
           value:
-            - FR
+            - FRR
       - date: '3041-01-01'
         socioIndustrial: A-C-C-C-A
       - date: '3050-01-01'
@@ -279,7 +279,7 @@ planet:
           source: SUCS
           version: 2026.03.02
           value:
-            - FR
+            - FRR
       - date: '3051-12-31'
         faction:
           source: SUCS

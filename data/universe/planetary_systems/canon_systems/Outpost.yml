@@ -319,7 +319,7 @@ planet:
           source: SUCS
           version: 2026.03.02
           value:
-            - FR
+            - FRR
       - date: '3050-01-01'
         population: 109477006.0
       - date: '3050-03-08'

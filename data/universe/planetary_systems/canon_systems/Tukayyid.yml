@@ -312,7 +312,7 @@ planet:
           source: SUCS
           version: 2026.03.02
           value:
-            - FR
+            - FRR
       - date: '3044-01-01'
         socioIndustrial: A-C-B-B-B
       - date: '3050-01-01'
@@ -338,7 +338,7 @@ planet:
           source: SUCS
           version: 2026.03.02
           value:
-            - FR
+            - FRR
       - date: '3060-01-01'
         population: 442478673.0
       - date: '3068-12-31'

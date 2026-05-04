@@ -48,6 +48,11 @@ IS Level 2
 None
 </role>
 
+<quirks>
+imp_com
+vtol_rotor_dual
+</quirks>
+
 <motion_type>
 VTOL
 </motion_type>

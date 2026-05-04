@@ -401,7 +401,7 @@ planet:
           source: SUCS
           version: 2026.03.02
           value:
-            - FR
+            - FRR
       - date: '3047-01-01'
         socioIndustrial: B-B-C-B-B
       - date: '3050-01-01'

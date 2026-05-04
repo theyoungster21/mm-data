@@ -1,4 +1,4 @@
-# MegaMek Data (C) 2025-2026 by The MegaMek Team is licensed under CC BY-NC-SA 4.0.
+# MegaMek Data (C) 2026 by The MegaMek Team is licensed under CC BY-NC-SA 4.0.
 # To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 #
 # NOTICE: The MegaMek organization is a non-profit group of volunteers
@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-generator:MegaMek Suite 0.50.12 on 2026-02-26
+generator:MegaMek Suite 0.51.00 on 2026-05-03
 chassis:Swordsman
 model:SWD-1
 mul id:7181
@@ -32,6 +32,7 @@ quirk:obsolete:2482
 quirk:searchlight
 quirk:poor_work
 weaponquirk:accurate:LT:1:Autocannon/5
+weaponquirk:ammo_feed_problems:LT:1:Autocannon/5
 
 mass:40
 engine:145 Fusion Engine
@@ -175,7 +176,6 @@ Heat Sink
 -Empty-
 -Empty-
 
-# Fluff Date: 2026-02-21 18:24:59
 overview:<p>The Swordsman was one of the earliest BattleMech designs fielded by the Federated Suns, entering prototype testing in 2463 under the direction of First Prince James Davion. Conceived as a mid-weight, inexpensive combat platform, the forty-ton design was intended to be built in large numbers and distributed across the Armed Forces of the Federated Suns, supplementing the heavier Mackie and Battleaxe chassis that formed the backbone of the AFFS at the time. Produced by Jerricho Industries of Robinson, the Swordsman was plagued by quality issues from the outset and carried a poor reputation throughout its service life, never achieving the widespread adoption its designers envisioned.</p>
 
 capabilities:<p>The Swordsman is built around a 145-rated primitive fusion engine, giving the forty-ton chassis a top speed of roughly 54 kilometers per hour. While adequate for keeping pace with contemporary Age of War designs such as the Mackie and Battleaxe, this speed provides little tactical flexibility against faster opponents. The design mounts no jump jets, further limiting its maneuverability on broken terrain.</p><p>The weapons complement is designed for general-purpose engagement across multiple range bands. A Class-5 autocannon occupies the left torso, providing reliable long-range firepower, while a five-tube long-range missile launcher in the right torso supplements it with indirect fire capability. A pair of medium lasers, one in each arm, round out the arsenal for intermediate and close-range combat. The autocannon benefits from especially accurate targeting integration, though this advantage is undercut by a persistent ammunition feed problem that risks catastrophic failure.</p><p>Ten tons of primitive armor provide reasonable protection for the era, though well below what later standardized designs would carry at the same tonnage. Combined with a primitive cockpit and the design's documented poor workmanship, the Swordsman offered only marginal survivability in sustained engagements. Integrated searchlights round out the equipment package, reflecting the design's intended role as a versatile frontline unit.</p>
@@ -188,6 +188,8 @@ manufacturer:Jerricho Industries
 
 primaryfactory:Robinson
 
+fluffdate:2026-02-21 18:24:59
+
 systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Unknown
 systemmode:ENGINE:145 Primitive
@@ -195,3 +197,4 @@ systemmanufacturer:ARMOR:Maximillian
 systemmode:ARMOR:Primitive Armor
 systemmanufacturer:COMMUNICATIONS:Unknown
 systemmanufacturer:TARGETING:Unknown
+

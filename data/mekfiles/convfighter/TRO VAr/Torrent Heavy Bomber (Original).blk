@@ -49,8 +49,8 @@ None
 </role>
 
 <quirks>
-internal_bomb
 atmo_flyer
+internal_bomb
 poor_performance
 </quirks>
 

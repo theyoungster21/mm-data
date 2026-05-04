@@ -48,6 +48,10 @@ IS Level 2
 None
 </role>
 
+<quirks>
+poor_sealing
+</quirks>
+
 <motion_type>
 Leg
 </motion_type>
