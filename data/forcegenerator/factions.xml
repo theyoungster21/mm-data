@@ -626,7 +626,7 @@
         <ratingLevels>F,D,C,B,A</ratingLevels>
         <parentFaction>FS</parentFaction>
     </faction>
-    <faction key='VesMar' name='Vesper Marches' minor='true' clan='false' periphery='false'>
+    <faction key='VSM' name='Vesper Marches' minor='true' clan='false' periphery='false'>
         <years>3151-</years>
         <ratingLevels>F,D,A</ratingLevels>
         <parentFaction>LA</parentFaction>
