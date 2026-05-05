@@ -105,15 +105,13 @@ Medium Laser
 <Rotor Equipment>
 </Rotor Equipment>
 
-
-
-
-
-
-
 <source>
 His:LoT2
 </source>
+
+<published>
+His:LoT2
+</published>
 
 <tonnage>
 22.0
