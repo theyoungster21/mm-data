@@ -125,6 +125,10 @@ BeagleActiveProbe
 IE:ISP3
 </source>
 
+<published>
+IE:ISP3
+</published>
+
 <tonnage>
 50.0
 </tonnage>

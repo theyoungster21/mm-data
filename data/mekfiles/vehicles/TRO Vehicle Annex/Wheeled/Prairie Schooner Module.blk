@@ -117,6 +117,10 @@ ISOffRoadChassis
 TR:VAr,TP:Irian
 </source>
 
+<published>
+TR:VAr,TP:Irian
+</published>
+
 <tonnage>
 30.0
 </tonnage>

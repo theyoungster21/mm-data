@@ -107,6 +107,10 @@ troopspace:0.5
 TR:3025,MW1e
 </source>
 
+<published>
+RS:V5-V
+</published>
+
 <tonnage>
 3.0
 </tonnage>
