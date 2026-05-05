@@ -126,6 +126,14 @@ COMMUNICATIONS:TharHes KR-A P/Comm
 TARGETING:TharHes Mars 1
 </systemManufacturers>
 
+<source>
+PS:AO-UrbanFest
+</source>
+
+<published>
+PS:AO-UrbanFest
+</published>
+
 <tonnage>
 50.0
 </tonnage>

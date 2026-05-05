@@ -22,6 +22,8 @@ model:UM-DKX
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3145
+source:PS:AO-UrbanFest
+published:PS:AO-UrbanFest
 rules level:4
 role:Scout
 
