@@ -1,4 +1,4 @@
-# MegaMek Data (C) 2025-2026 by The MegaMek Team is licensed under CC BY-NC-SA 4.0.
+# MegaMek Data (C) 2026 by The MegaMek Team is licensed under CC BY-NC-SA 4.0.
 # To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 #
 # NOTICE: The MegaMek organization is a non-profit group of volunteers
@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-#Saved from version 0.50.12 on 2026-02-26
+#Saved from version 0.51.00 on 2026-05-07
 <UnitType>
 Tank
 </UnitType>
@@ -25,7 +25,7 @@ Zephyr Hovertank
 </Name>
 
 <Model>
-(SRM2)
+(Original)
 </Model>
 
 <mul id:>
@@ -35,10 +35,6 @@ Zephyr Hovertank
 <year>
 2620
 </year>
-
-<originalBuildYear>
-2620
-</originalBuildYear>
 
 <type>
 IS Level 2
@@ -69,11 +65,11 @@ Hover
 </armor_tech_rating>
 
 <armor_tech_level>
--1
+1
 </armor_tech_level>
 
 <armor>
-37
+38
 24
 24
 19
@@ -107,26 +103,13 @@ Medium Laser
 Medium Laser
 </Turret Equipment>
 
-<source>
-TR:3050,TR:3050U
-</source>
-
-<published>
-RS:3050Uu-C
-</published>
-
-<tonnage>
-40.0
-</tonnage>
-
-# Fluff Date: 2026-03-12 15:51:37
-<overview>
-<p>Designed in 2620 by Grumman Industries for the Terran Hegemony, the Zephyr hovertank was originally conceived as a medium-duty, fast-response infantry support platform. The Star League Defense Force saw greater potential in the design, pressing it into service as a dedicated escort for the Chaparral Arrow IV artillery tank and insisting that Grumman incorporate a Guardian ECM suite into all production units. This change transformed a capable support vehicle into a battlefield force-multiplier, enabling combined-arms formations to exploit ECM coverage in ways that far exceeded the vehicle's modest firepower.</p><p>Grumman's Terra facility served as the primary production site, with New Earth hosting a secondary plant during the Star League era. The Zephyr's combination of above-average armor, exceptional speed, and electronic warfare support earned it a reputation as one of the most successful combat vehicles in Inner Sphere history, a legacy that endured through centuries of conflict and multiple major redesigns.</p>
-</overview>
-
 <capabilities>
 <p>The Zephyr's tactical value derives primarily from its Guardian ECM suite and the speed to deploy it effectively. The GM 185 fusion engine provides a cruising speed of 97 kilometers per hour and a flank speed exceeding 150 kilometers per hour, allowing the vehicle to reposition rapidly and maintain the ECM umbrella where it is most needed. Seven tons of Grumman CRT ferro-fibrous armor give the Zephyr above-average protection for its weight, sufficient to absorb glancing fire and permit high-speed disengagement when engagements turn unfavorable.</p><p>Armament is deliberately secondary to the support mission. Three medium lasers and the Alloran target acquisition gear occupy the turret, providing reliable fire support without generating significant heat. A nose-mounted SRM-6 with two tons of reloads adds short-range punch, and a rear-facing small laser discourages pursuit. Clan Invasion-era production models use Bowie Electronics lasers, a Thor SRM-6, and a Bundesweyth TAG, performing identically to their Star League predecessors with different component branding.</p><p>The Zephyr's limitations stem from its support focus. It carries no jump jets, relying on hover speed to evade threats. Against dedicated anti-vehicle platforms or sustained fire, its armor and weapons cannot sustain extended engagements. Crews train to establish the ECM umbrella, contribute fire support from medium range, and withdraw before the vehicle absorbs critical damage.</p>
 </capabilities>
+
+<overview>
+<p>Designed in 2620 by Grumman Industries for the Terran Hegemony, the Zephyr hovertank was originally conceived as a medium-duty, fast-response infantry support platform. The Star League Defense Force saw greater potential in the design, pressing it into service as a dedicated escort for the Chaparral Arrow IV artillery tank and insisting that Grumman incorporate a Guardian ECM suite into all production units. This change transformed a capable support vehicle into a battlefield force-multiplier, enabling combined-arms formations to exploit ECM coverage in ways that far exceeded the vehicle's modest firepower.</p><p>Grumman's Terra facility served as the primary production site, with New Earth hosting a secondary plant during the Star League era. The Zephyr's combination of above-average armor, exceptional speed, and electronic warfare support earned it a reputation as one of the most successful combat vehicles in Inner Sphere history, a legacy that endured through centuries of conflict and multiple major redesigns.</p>
+</overview>
 
 <deployment>
 <p>The pre-Guardian variant represents the Zephyr as originally designed, before the SLDF required Grumman to incorporate the ECM suite. Carrying an extra half-ton of armor and a rear-mounted SRM-2 in place of the Guardian ECM, this version was produced in limited numbers at New Earth for Hegemony border garrisons that had not yet received the updated specification.</p><p>After the New Earth plant's destruction during the Succession Wars, surviving SRM2 Zephyrs became increasingly uncommon. The type is occasionally encountered in deep periphery stockpiles or wartime caches, usually in poor condition. Restorationists and collectors prize the variant for its historical significance as the original production intent, before the SLDF's intervention shaped the tank that defined the Zephyr's legacy.</p>
@@ -159,4 +142,22 @@ ARMOR:CRT Ferro-Fibrous
 COMMUNICATIONS:Unknown
 TARGETING:Target Acquisition Gear
 </systemModels>
+
+<notes>
+Errata - Errata (3 of currently 3):Zephyr (SRM) should be renamed Zephyr (Original) - please also make the MUL aware of that.
+And then, the additional armor vs the featured model should be on the front, not on the turret. That means the turret should be 29 (instead of 38) and the front should be 38 (instead of 29)
+</notes>
+
+<source>
+TR:3050,TR:3050U
+</source>
+
+<published>
+RS:3050Uu-C
+</published>
+
+<tonnage>
+40.0
+</tonnage>
+
 
